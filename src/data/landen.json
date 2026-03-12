@@ -1,0 +1,2328 @@
+[
+  {
+    "land": "Afghanistan",
+    "hoofdstad": "Kabul",
+    "prominente_steden": [
+      "Kabul",
+      "Kandahar",
+      "Herat"
+    ],
+    "inwoners": 41128771,
+    "vlag": "vlaggen/af.png",
+    "moeilijkheid": 45
+  },
+  {
+    "land": "Albanië",
+    "hoofdstad": "Tirana",
+    "prominente_steden": [
+      "Tirana",
+      "Durrës",
+      "Vlorë"
+    ],
+    "inwoners": 2877797,
+    "vlag": "vlaggen/al.png",
+    "moeilijkheid": 65
+  },
+  {
+    "land": "Algerije",
+    "hoofdstad": "Algiers",
+    "prominente_steden": [
+      "Algiers",
+      "Oran",
+      "Constantine"
+    ],
+    "inwoners": 44903225,
+    "vlag": "vlaggen/dz.png",
+    "moeilijkheid": 55
+  },
+  {
+    "land": "Andorra",
+    "hoofdstad": "Andorra la Vella",
+    "prominente_steden": [
+      "Andorra la Vella",
+      "Escaldes-Engordany",
+      "Encamp"
+    ],
+    "inwoners": 77265,
+    "vlag": "vlaggen/ad.png",
+    "moeilijkheid": 70
+  },
+  {
+    "land": "Angola",
+    "hoofdstad": "Luanda",
+    "prominente_steden": [
+      "Luanda",
+      "Huambo",
+      "Lobito"
+    ],
+    "inwoners": 33933610,
+    "vlag": "vlaggen/ao.png",
+    "moeilijkheid": 65
+  },
+  {
+    "land": "Antigua en Barbuda",
+    "hoofdstad": "Saint John's",
+    "prominente_steden": [
+      "Saint John's",
+      "All Saints",
+      "Liberta"
+    ],
+    "inwoners": 97929,
+    "vlag": "vlaggen/ag.png",
+    "moeilijkheid": 90
+  },
+  {
+    "land": "Argentinië",
+    "hoofdstad": "Buenos Aires",
+    "prominente_steden": [
+      "Buenos Aires",
+      "Córdoba",
+      "Rosario"
+    ],
+    "inwoners": 45376763,
+    "vlag": "vlaggen/ar.png",
+    "moeilijkheid": 25
+  },
+  {
+    "land": "Armenië",
+    "hoofdstad": "Jerevan",
+    "prominente_steden": [
+      "Jerevan",
+      "Gyumri",
+      "Vanadzor"
+    ],
+    "inwoners": 2963243,
+    "vlag": "vlaggen/am.png",
+    "moeilijkheid": 70
+  },
+  {
+    "land": "Australië",
+    "hoofdstad": "Canberra",
+    "prominente_steden": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "inwoners": 25978935,
+    "vlag": "vlaggen/au.png",
+    "moeilijkheid": 5
+  },
+  {
+    "land": "Azerbeidzjan",
+    "hoofdstad": "Bakoe",
+    "prominente_steden": [
+      "Bakoe",
+      "Ganja",
+      "Sumqayit"
+    ],
+    "inwoners": 10139177,
+    "vlag": "vlaggen/az.png",
+    "moeilijkheid": 75
+  },
+  {
+    "land": "Bahama's",
+    "hoofdstad": "Nassau",
+    "prominente_steden": [
+      "Nassau",
+      "Freeport",
+      "West End"
+    ],
+    "inwoners": 393244,
+    "vlag": "vlaggen/bs.png",
+    "moeilijkheid": 60
+  },
+  {
+    "land": "Bahrein",
+    "hoofdstad": "Manama",
+    "prominente_steden": [
+      "Manama",
+      "Riffa",
+      "Muharraq"
+    ],
+    "inwoners": 1472233,
+    "vlag": "vlaggen/bh.png",
+    "moeilijkheid": 75
+  },
+  {
+    "land": "Bangladesh",
+    "hoofdstad": "Dhaka",
+    "prominente_steden": [
+      "Dhaka",
+      "Chittagong",
+      "Khulna"
+    ],
+    "inwoners": 169356251,
+    "vlag": "vlaggen/bd.png",
+    "moeilijkheid": 50
+  },
+  {
+    "land": "Barbados",
+    "hoofdstad": "Bridgetown",
+    "prominente_steden": [
+      "Bridgetown",
+      "Speightstown",
+      "Oistins"
+    ],
+    "inwoners": 287375,
+    "vlag": "vlaggen/bb.png",
+    "moeilijkheid": 75
+  },
+  {
+    "land": "Belarus",
+    "hoofdstad": "Minsk",
+    "prominente_steden": [
+      "Minsk",
+      "Gomel",
+      "Mogilev"
+    ],
+    "inwoners": 9449323,
+    "vlag": "vlaggen/by.png",
+    "moeilijkheid": 55
+  },
+  {
+    "land": "België",
+    "hoofdstad": "Brussel",
+    "prominente_steden": [
+      "Brussel",
+      "Antwerpen",
+      "Gent"
+    ],
+    "inwoners": 11589623,
+    "vlag": "vlaggen/be.png",
+    "moeilijkheid": 5
+  },
+  {
+    "land": "Belize",
+    "hoofdstad": "Belmopan",
+    "prominente_steden": [
+      "Belize City",
+      "San Ignacio",
+      "Orange Walk"
+    ],
+    "inwoners": 397628,
+    "vlag": "vlaggen/bz.png",
+    "moeilijkheid": 80
+  },
+  {
+    "land": "Benin",
+    "hoofdstad": "Porto-Novo",
+    "prominente_steden": [
+      "Cotonou",
+      "Porto-Novo",
+      "Parakou"
+    ],
+    "inwoners": 12123200,
+    "vlag": "vlaggen/bj.png",
+    "moeilijkheid": 80
+  },
+  {
+    "land": "Bhutan",
+    "hoofdstad": "Thimphu",
+    "prominente_steden": [
+      "Thimphu",
+      "Phuntsholing",
+      "Paro"
+    ],
+    "inwoners": 771608,
+    "vlag": "vlaggen/bt.png",
+    "moeilijkheid": 75
+  },
+  {
+    "land": "Bolivia",
+    "hoofdstad": "Sucre",
+    "prominente_steden": [
+      "Santa Cruz de la Sierra",
+      "La Paz",
+      "Cochabamba"
+    ],
+    "inwoners": 11673021,
+    "vlag": "vlaggen/bo.png",
+    "moeilijkheid": 55
+  },
+  {
+    "land": "Bosnië en Herzegovina",
+    "hoofdstad": "Sarajevo",
+    "prominente_steden": [
+      "Sarajevo",
+      "Banja Luka",
+      "Tuzla"
+    ],
+    "inwoners": 3280819,
+    "vlag": "vlaggen/ba.png",
+    "moeilijkheid": 55
+  },
+  {
+    "land": "Botswana",
+    "hoofdstad": "Gaborone",
+    "prominente_steden": [
+      "Gaborone",
+      "Francistown",
+      "Molepolole"
+    ],
+    "inwoners": 2351627,
+    "vlag": "vlaggen/bw.png",
+    "moeilijkheid": 65
+  },
+  {
+    "land": "Brazilië",
+    "hoofdstad": "Brasília",
+    "prominente_steden": [
+      "São Paulo",
+      "Rio de Janeiro",
+      "Brasília"
+    ],
+    "inwoners": 212559417,
+    "vlag": "vlaggen/br.png",
+    "moeilijkheid": 10
+  },
+  {
+    "land": "Brunei",
+    "hoofdstad": "Bandar Seri Begawan",
+    "prominente_steden": [
+      "Bandar Seri Begawan",
+      "Seria",
+      "Tutong"
+    ],
+    "inwoners": 437479,
+    "vlag": "vlaggen/bn.png",
+    "moeilijkheid": 80
+  },
+  {
+    "land": "Bulgarije",
+    "hoofdstad": "Sofia",
+    "prominente_steden": [
+      "Sofia",
+      "Plovdiv",
+      "Varna"
+    ],
+    "inwoners": 6927288,
+    "vlag": "vlaggen/bg.png",
+    "moeilijkheid": 45
+  },
+  {
+    "land": "Burkina Faso",
+    "hoofdstad": "Ouagadougou",
+    "prominente_steden": [
+      "Ouagadougou",
+      "Bobo-Dioulasso",
+      "Koudougou"
+    ],
+    "inwoners": 20903273,
+    "vlag": "vlaggen/bf.png",
+    "moeilijkheid": 80
+  },
+  {
+    "land": "Burundi",
+    "hoofdstad": "Gitega",
+    "prominente_steden": [
+      "Bujumbura",
+      "Gitega",
+      "Muyinga"
+    ],
+    "inwoners": 11890784,
+    "vlag": "vlaggen/bi.png",
+    "moeilijkheid": 85
+  },
+  {
+    "land": "Cabo Verde",
+    "hoofdstad": "Praia",
+    "prominente_steden": [
+      "Praia",
+      "Mindelo",
+      "Santa Maria"
+    ],
+    "inwoners": 555987,
+    "vlag": "vlaggen/cv.png",
+    "moeilijkheid": 85
+  },
+  {
+    "land": "Cambodja",
+    "hoofdstad": "Phnom Penh",
+    "prominente_steden": [
+      "Phnom Penh",
+      "Siem Reap",
+      "Battambang"
+    ],
+    "inwoners": 16718965,
+    "vlag": "vlaggen/kh.png",
+    "moeilijkheid": 65
+  },
+  {
+    "land": "Canada",
+    "hoofdstad": "Ottawa",
+    "prominente_steden": [
+      "Toronto",
+      "Montreal",
+      "Vancouver"
+    ],
+    "inwoners": 38005238,
+    "vlag": "vlaggen/ca.png",
+    "moeilijkheid": 10
+  },
+  {
+    "land": "Centraal-Afrikaanse Republiek",
+    "hoofdstad": "Bangui",
+    "prominente_steden": [
+      "Bangui",
+      "Bimbo",
+      "Berbérati"
+    ],
+    "inwoners": 4829767,
+    "vlag": "vlaggen/cf.png",
+    "moeilijkheid": 80
+  },
+  {
+    "land": "Chili",
+    "hoofdstad": "Santiago",
+    "prominente_steden": [
+      "Santiago",
+      "Valparaíso",
+      "Concepción"
+    ],
+    "inwoners": 19116201,
+    "vlag": "vlaggen/cl.png",
+    "moeilijkheid": 35
+  },
+  {
+    "land": "China",
+    "hoofdstad": "Peking",
+    "prominente_steden": [
+      "Shanghai",
+      "Peking",
+      "Guangzhou"
+    ],
+    "inwoners": 1411778724,
+    "vlag": "vlaggen/cn.png",
+    "moeilijkheid": 5
+  },
+  {
+    "land": "Colombia",
+    "hoofdstad": "Bogota",
+    "prominente_steden": [
+      "Bogota",
+      "Medellín",
+      "Cali"
+    ],
+    "inwoners": 50882891,
+    "vlag": "vlaggen/co.png",
+    "moeilijkheid": 35
+  },
+  {
+    "land": "Comoren",
+    "hoofdstad": "Moroni",
+    "prominente_steden": [
+      "Moroni",
+      "Mutsamudu",
+      "Fomboni"
+    ],
+    "inwoners": 869601,
+    "vlag": "vlaggen/km.png",
+    "moeilijkheid": 95
+  },
+  {
+    "land": "Congo-Brazzaville",
+    "hoofdstad": "Brazzaville",
+    "prominente_steden": [
+      "Brazzaville",
+      "Pointe-Noire",
+      "Dolisie"
+    ],
+    "inwoners": 5518087,
+    "vlag": "vlaggen/cg.png",
+    "moeilijkheid": 75
+  },
+  {
+    "land": "Congo-Kinshasa",
+    "hoofdstad": "Kinshasa",
+    "prominente_steden": [
+      "Kinshasa",
+      "Lubumbashi",
+      "Mbuji-Mayi"
+    ],
+    "inwoners": 89561403,
+    "vlag": "vlaggen/cd.png",
+    "moeilijkheid": 70
+  },
+  {
+    "land": "Costa Rica",
+    "hoofdstad": "San José",
+    "prominente_steden": [
+      "San José",
+      "Alajuela",
+      "Cartago"
+    ],
+    "inwoners": 5094118,
+    "vlag": "vlaggen/cr.png",
+    "moeilijkheid": 45
+  },
+  {
+    "land": "Cuba",
+    "hoofdstad": "Havana",
+    "prominente_steden": [
+      "Havana",
+      "Santiago de Cuba",
+      "Camagüey"
+    ],
+    "inwoners": 11326616,
+    "vlag": "vlaggen/cu.png",
+    "moeilijkheid": 30
+  },
+  {
+    "land": "Cyprus",
+    "hoofdstad": "Nicosia",
+    "prominente_steden": [
+      "Nicosia",
+      "Limassol",
+      "Larnaca"
+    ],
+    "inwoners": 1207359,
+    "vlag": "vlaggen/cy.png",
+    "moeilijkheid": 50
+  },
+  {
+    "land": "Denemarken",
+    "hoofdstad": "Kopenhagen",
+    "prominente_steden": [
+      "Kopenhagen",
+      "Aarhus",
+      "Odense"
+    ],
+    "inwoners": 5818553,
+    "vlag": "vlaggen/dk.png",
+    "moeilijkheid": 10
+  },
+  {
+    "land": "Djibouti",
+    "hoofdstad": "Djibouti",
+    "prominente_steden": [
+      "Djibouti",
+      "Ali Sabieh",
+      "Tadjoura"
+    ],
+    "inwoners": 988000,
+    "vlag": "vlaggen/dj.png",
+    "moeilijkheid": 85
+  },
+  {
+    "land": "Dominica",
+    "hoofdstad": "Roseau",
+    "prominente_steden": [
+      "Roseau",
+      "Portsmouth",
+      "Marigot"
+    ],
+    "inwoners": 71986,
+    "vlag": "vlaggen/dm.png",
+    "moeilijkheid": 90
+  },
+  {
+    "land": "Dominicaanse Republiek",
+    "hoofdstad": "Santo Domingo",
+    "prominente_steden": [
+      "Santo Domingo",
+      "Santiago de los Caballeros",
+      "La Romana"
+    ],
+    "inwoners": 10847910,
+    "vlag": "vlaggen/do.png",
+    "moeilijkheid": 50
+  },
+  {
+    "land": "Duitsland",
+    "hoofdstad": "Berlijn",
+    "prominente_steden": [
+      "Berlijn",
+      "Hamburg",
+      "München"
+    ],
+    "inwoners": 83783942,
+    "vlag": "vlaggen/de.png",
+    "moeilijkheid": 5
+  },
+  {
+    "land": "Ecuador",
+    "hoofdstad": "Quito",
+    "prominente_steden": [
+      "Guayaquil",
+      "Quito",
+      "Cuenca"
+    ],
+    "inwoners": 17643054,
+    "vlag": "vlaggen/ec.png",
+    "moeilijkheid": 50
+  },
+  {
+    "land": "Egypte",
+    "hoofdstad": "Caïro",
+    "prominente_steden": [
+      "Caïro",
+      "Alexandrië",
+      "Gizeh"
+    ],
+    "inwoners": 102334404,
+    "vlag": "vlaggen/eg.png",
+    "moeilijkheid": 15
+  },
+  {
+    "land": "El Salvador",
+    "hoofdstad": "San Salvador",
+    "prominente_steden": [
+      "San Salvador",
+      "Santa Ana",
+      "San Miguel"
+    ],
+    "inwoners": 6486205,
+    "vlag": "vlaggen/sv.png",
+    "moeilijkheid": 65
+  },
+  {
+    "land": "Equatoriaal-Guinea",
+    "hoofdstad": "Malabo",
+    "prominente_steden": [
+      "Malabo",
+      "Bata",
+      "Ebebiyín"
+    ],
+    "inwoners": 1402985,
+    "vlag": "vlaggen/gq.png",
+    "moeilijkheid": 90
+  },
+  {
+    "land": "Eritrea",
+    "hoofdstad": "Asmara",
+    "prominente_steden": [
+      "Asmara",
+      "Keren",
+      "Massawa"
+    ],
+    "inwoners": 3546421,
+    "vlag": "vlaggen/er.png",
+    "moeilijkheid": 80
+  },
+  {
+    "land": "Estland",
+    "hoofdstad": "Tallinn",
+    "prominente_steden": [
+      "Tallinn",
+      "Tartu",
+      "Narva"
+    ],
+    "inwoners": 1326535,
+    "vlag": "vlaggen/ee.png",
+    "moeilijkheid": 50
+  },
+  {
+    "land": "Eswatini",
+    "hoofdstad": "Mbabane",
+    "prominente_steden": [
+      "Mbabane",
+      "Manzini",
+      "Lobamba"
+    ],
+    "inwoners": 1160164,
+    "vlag": "vlaggen/sz.png",
+    "moeilijkheid": 85
+  },
+  {
+    "land": "Ethiopië",
+    "hoofdstad": "Addis Abeba",
+    "prominente_steden": [
+      "Addis Abeba",
+      "Dire Dawa",
+      "Adama"
+    ],
+    "inwoners": 114963588,
+    "vlag": "vlaggen/et.png",
+    "moeilijkheid": 50
+  },
+  {
+    "land": "Fiji",
+    "hoofdstad": "Suva",
+    "prominente_steden": [
+      "Suva",
+      "Nadi",
+      "Lautoka"
+    ],
+    "inwoners": 896445,
+    "vlag": "vlaggen/fj.png",
+    "moeilijkheid": 70
+  },
+  {
+    "land": "Filipijnen",
+    "hoofdstad": "Manilla",
+    "prominente_steden": [
+      "Manilla",
+      "Quezon City",
+      "Davao"
+    ],
+    "inwoners": 109581078,
+    "vlag": "vlaggen/ph.png",
+    "moeilijkheid": 40
+  },
+  {
+    "land": "Finland",
+    "hoofdstad": "Helsinki",
+    "prominente_steden": [
+      "Helsinki",
+      "Espoo",
+      "Tampere"
+    ],
+    "inwoners": 5540720,
+    "vlag": "vlaggen/fi.png",
+    "moeilijkheid": 15
+  },
+  {
+    "land": "Frankrijk",
+    "hoofdstad": "Parijs",
+    "prominente_steden": [
+      "Parijs",
+      "Marseille",
+      "Lyon"
+    ],
+    "inwoners": 67390000,
+    "vlag": "vlaggen/fr.png",
+    "moeilijkheid": 5
+  },
+  {
+    "land": "Gabon",
+    "hoofdstad": "Libreville",
+    "prominente_steden": [
+      "Libreville",
+      "Port-Gentil",
+      "Franceville"
+    ],
+    "inwoners": 2225734,
+    "vlag": "vlaggen/ga.png",
+    "moeilijkheid": 80
+  },
+  {
+    "land": "Gambia",
+    "hoofdstad": "Banjul",
+    "prominente_steden": [
+      "Serekunda",
+      "Brikama",
+      "Banjul"
+    ],
+    "inwoners": 2416668,
+    "vlag": "vlaggen/gm.png",
+    "moeilijkheid": 85
+  },
+  {
+    "land": "Georgië",
+    "hoofdstad": "Tbilisi",
+    "prominente_steden": [
+      "Tbilisi",
+      "Batumi",
+      "Kutaisi"
+    ],
+    "inwoners": 3989167,
+    "vlag": "vlaggen/ge.png",
+    "moeilijkheid": 60
+  },
+  {
+    "land": "Ghana",
+    "hoofdstad": "Accra",
+    "prominente_steden": [
+      "Accra",
+      "Kumasi",
+      "Tamale"
+    ],
+    "inwoners": 31072940,
+    "vlag": "vlaggen/gh.png",
+    "moeilijkheid": 55
+  },
+  {
+    "land": "Grenada",
+    "hoofdstad": "Saint George's",
+    "prominente_steden": [
+      "Saint George's",
+      "Gouyave",
+      "Grenville"
+    ],
+    "inwoners": 112523,
+    "vlag": "vlaggen/gd.png",
+    "moeilijkheid": 90
+  },
+  {
+    "land": "Griekenland",
+    "hoofdstad": "Athene",
+    "prominente_steden": [
+      "Athene",
+      "Thessaloniki",
+      "Patras"
+    ],
+    "inwoners": 10423054,
+    "vlag": "vlaggen/gr.png",
+    "moeilijkheid": 15
+  },
+  {
+    "land": "Guatemala",
+    "hoofdstad": "Guatemala-Stad",
+    "prominente_steden": [
+      "Guatemala-Stad",
+      "Quetzaltenango",
+      "Escuintla"
+    ],
+    "inwoners": 16858333,
+    "vlag": "vlaggen/gt.png",
+    "moeilijkheid": 60
+  },
+  {
+    "land": "Guinee",
+    "hoofdstad": "Conakry",
+    "prominente_steden": [
+      "Conakry",
+      "Nzérékoré",
+      "Kankan"
+    ],
+    "inwoners": 13132795,
+    "vlag": "vlaggen/gn.png",
+    "moeilijkheid": 80
+  },
+  {
+    "land": "Guinee-Bissau",
+    "hoofdstad": "Bissau",
+    "prominente_steden": [
+      "Bissau",
+      "Bafatá",
+      "Gabú"
+    ],
+    "inwoners": 1968001,
+    "vlag": "vlaggen/gw.png",
+    "moeilijkheid": 90
+  },
+  {
+    "land": "Guyana",
+    "hoofdstad": "Georgetown",
+    "prominente_steden": [
+      "Georgetown",
+      "Linden",
+      "New Amsterdam"
+    ],
+    "inwoners": 786552,
+    "vlag": "vlaggen/gy.png",
+    "moeilijkheid": 80
+  },
+  {
+    "land": "Haïti",
+    "hoofdstad": "Port-au-Prince",
+    "prominente_steden": [
+      "Port-au-Prince",
+      "Cap-Haïtien",
+      "Gonaïves"
+    ],
+    "inwoners": 11402528,
+    "vlag": "vlaggen/ht.png",
+    "moeilijkheid": 60
+  },
+  {
+    "land": "Honduras",
+    "hoofdstad": "Tegucigalpa",
+    "prominente_steden": [
+      "Tegucigalpa",
+      "San Pedro Sula",
+      "La Ceiba"
+    ],
+    "inwoners": 9904607,
+    "vlag": "vlaggen/hn.png",
+    "moeilijkheid": 65
+  },
+  {
+    "land": "Hongarije",
+    "hoofdstad": "Boedapest",
+    "prominente_steden": [
+      "Boedapest",
+      "Debrecen",
+      "Szeged"
+    ],
+    "inwoners": 9660351,
+    "vlag": "vlaggen/hu.png",
+    "moeilijkheid": 35
+  },
+  {
+    "land": "Ierland",
+    "hoofdstad": "Dublin",
+    "prominente_steden": [
+      "Dublin",
+      "Cork",
+      "Galway"
+    ],
+    "inwoners": 4937786,
+    "vlag": "vlaggen/ie.png",
+    "moeilijkheid": 15
+  },
+  {
+    "land": "IJsland",
+    "hoofdstad": "Reykjavik",
+    "prominente_steden": [
+      "Reykjavik",
+      "Kópavogur",
+      "Hafnarfjörður"
+    ],
+    "inwoners": 366425,
+    "vlag": "vlaggen/is.png",
+    "moeilijkheid": 25
+  },
+  {
+    "land": "India",
+    "hoofdstad": "New Delhi",
+    "prominente_steden": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore"
+    ],
+    "inwoners": 1380004385,
+    "vlag": "vlaggen/in.png",
+    "moeilijkheid": 10
+  },
+  {
+    "land": "Indonesië",
+    "hoofdstad": "Jakarta",
+    "prominente_steden": [
+      "Jakarta",
+      "Surabaya",
+      "Bandung"
+    ],
+    "inwoners": 273523615,
+    "vlag": "vlaggen/id.png",
+    "moeilijkheid": 35
+  },
+  {
+    "land": "Irak",
+    "hoofdstad": "Bagdad",
+    "prominente_steden": [
+      "Bagdad",
+      "Basra",
+      "Mosul"
+    ],
+    "inwoners": 40222493,
+    "vlag": "vlaggen/iq.png",
+    "moeilijkheid": 35
+  },
+  {
+    "land": "Iran",
+    "hoofdstad": "Teheran",
+    "prominente_steden": [
+      "Teheran",
+      "Mashhad",
+      "Isfahan"
+    ],
+    "inwoners": 83992949,
+    "vlag": "vlaggen/ir.png",
+    "moeilijkheid": 30
+  },
+  {
+    "land": "Israël",
+    "hoofdstad": "Jeruzalem",
+    "prominente_steden": [
+      "Jeruzalem",
+      "Tel Aviv",
+      "Haifa"
+    ],
+    "inwoners": 8655535,
+    "vlag": "vlaggen/il.png",
+    "moeilijkheid": 25
+  },
+  {
+    "land": "Italië",
+    "hoofdstad": "Rome",
+    "prominente_steden": [
+      "Rome",
+      "Milaan",
+      "Napels"
+    ],
+    "inwoners": 60461826,
+    "vlag": "vlaggen/it.png",
+    "moeilijkheid": 5
+  },
+  {
+    "land": "Ivoorkust",
+    "hoofdstad": "Yamoussoukro",
+    "prominente_steden": [
+      "Abidjan",
+      "Bouaké",
+      "Yamoussoukro"
+    ],
+    "inwoners": 26378274,
+    "vlag": "vlaggen/ci.png",
+    "moeilijkheid": 70
+  },
+  {
+    "land": "Jamaica",
+    "hoofdstad": "Kingston",
+    "prominente_steden": [
+      "Kingston",
+      "Montego Bay",
+      "Spanish Town"
+    ],
+    "inwoners": 2961167,
+    "vlag": "vlaggen/jm.png",
+    "moeilijkheid": 35
+  },
+  {
+    "land": "Japan",
+    "hoofdstad": "Tokio",
+    "prominente_steden": [
+      "Tokio",
+      "Osaka",
+      "Yokohama"
+    ],
+    "inwoners": 126476461,
+    "vlag": "vlaggen/jp.png",
+    "moeilijkheid": 5
+  },
+  {
+    "land": "Jemen",
+    "hoofdstad": "Sanaa",
+    "prominente_steden": [
+      "Sanaa",
+      "Aden",
+      "Taiz"
+    ],
+    "inwoners": 29825964,
+    "vlag": "vlaggen/ye.png",
+    "moeilijkheid": 60
+  },
+  {
+    "land": "Jordanië",
+    "hoofdstad": "Amman",
+    "prominente_steden": [
+      "Amman",
+      "Zarqa",
+      "Irbid"
+    ],
+    "inwoners": 10203134,
+    "vlag": "vlaggen/jo.png",
+    "moeilijkheid": 50
+  },
+  {
+    "land": "Kameroen",
+    "hoofdstad": "Yaoundé",
+    "prominente_steden": [
+      "Douala",
+      "Yaoundé",
+      "Garoua"
+    ],
+    "inwoners": 26545863,
+    "vlag": "vlaggen/cm.png",
+    "moeilijkheid": 60
+  },
+  {
+    "land": "Kazachstan",
+    "hoofdstad": "Astana",
+    "prominente_steden": [
+      "Almaty",
+      "Astana",
+      "Shymkent"
+    ],
+    "inwoners": 18776707,
+    "vlag": "vlaggen/kz.png",
+    "moeilijkheid": 55
+  },
+  {
+    "land": "Kenia",
+    "hoofdstad": "Nairobi",
+    "prominente_steden": [
+      "Nairobi",
+      "Mombasa",
+      "Kisumu"
+    ],
+    "inwoners": 53771296,
+    "vlag": "vlaggen/ke.png",
+    "moeilijkheid": 40
+  },
+  {
+    "land": "Kirgizië",
+    "hoofdstad": "Bisjkek",
+    "prominente_steden": [
+      "Bisjkek",
+      "Osh",
+      "Jalal-Abad"
+    ],
+    "inwoners": 6524195,
+    "vlag": "vlaggen/kg.png",
+    "moeilijkheid": 80
+  },
+  {
+    "land": "Kiribati",
+    "hoofdstad": "Tarawa",
+    "prominente_steden": [
+      "South Tarawa",
+      "Betio",
+      "Bikenibeu"
+    ],
+    "inwoners": 119449,
+    "vlag": "vlaggen/ki.png",
+    "moeilijkheid": 95
+  },
+  {
+    "land": "Koeweit",
+    "hoofdstad": "Koeweit-Stad",
+    "prominente_steden": [
+      "Koeweit-Stad",
+      "Hawalli",
+      "Salmiya"
+    ],
+    "inwoners": 4270571,
+    "vlag": "vlaggen/kw.png",
+    "moeilijkheid": 55
+  },
+  {
+    "land": "Kroatië",
+    "hoofdstad": "Zagreb",
+    "prominente_steden": [
+      "Zagreb",
+      "Split",
+      "Rijeka"
+    ],
+    "inwoners": 4105267,
+    "vlag": "vlaggen/hr.png",
+    "moeilijkheid": 35
+  },
+  {
+    "land": "Laos",
+    "hoofdstad": "Vientiane",
+    "prominente_steden": [
+      "Vientiane",
+      "Savannakhet",
+      "Luang Prabang"
+    ],
+    "inwoners": 7275560,
+    "vlag": "vlaggen/la.png",
+    "moeilijkheid": 75
+  },
+  {
+    "land": "Lesotho",
+    "hoofdstad": "Maseru",
+    "prominente_steden": [
+      "Maseru",
+      "Teyateyaneng",
+      "Mafeteng"
+    ],
+    "inwoners": 2142249,
+    "vlag": "vlaggen/ls.png",
+    "moeilijkheid": 85
+  },
+  {
+    "land": "Letland",
+    "hoofdstad": "Riga",
+    "prominente_steden": [
+      "Riga",
+      "Daugavpils",
+      "Liepāja"
+    ],
+    "inwoners": 1886198,
+    "vlag": "vlaggen/lv.png",
+    "moeilijkheid": 55
+  },
+  {
+    "land": "Libanon",
+    "hoofdstad": "Beiroet",
+    "prominente_steden": [
+      "Beiroet",
+      "Tripoli",
+      "Sidon"
+    ],
+    "inwoners": 6825445,
+    "vlag": "vlaggen/lb.png",
+    "moeilijkheid": 50
+  },
+  {
+    "land": "Liberia",
+    "hoofdstad": "Monrovia",
+    "prominente_steden": [
+      "Monrovia",
+      "Gbarnga",
+      "Buchanan"
+    ],
+    "inwoners": 5057681,
+    "vlag": "vlaggen/lr.png",
+    "moeilijkheid": 75
+  },
+  {
+    "land": "Libië",
+    "hoofdstad": "Tripoli",
+    "prominente_steden": [
+      "Tripoli",
+      "Benghazi",
+      "Misrata"
+    ],
+    "inwoners": 6871292,
+    "vlag": "vlaggen/ly.png",
+    "moeilijkheid": 55
+  },
+  {
+    "land": "Liechtenstein",
+    "hoofdstad": "Vaduz",
+    "prominente_steden": [
+      "Schaan",
+      "Vaduz",
+      "Triesen"
+    ],
+    "inwoners": 38128,
+    "vlag": "vlaggen/li.png",
+    "moeilijkheid": 65
+  },
+  {
+    "land": "Litouwen",
+    "hoofdstad": "Vilnius",
+    "prominente_steden": [
+      "Vilnius",
+      "Kaunas",
+      "Klaipėda"
+    ],
+    "inwoners": 2722289,
+    "vlag": "vlaggen/lt.png",
+    "moeilijkheid": 50
+  },
+  {
+    "land": "Luxemburg",
+    "hoofdstad": "Luxemburg",
+    "prominente_steden": [
+      "Luxemburg",
+      "Esch-sur-Alzette",
+      "Differdange"
+    ],
+    "inwoners": 625978,
+    "vlag": "vlaggen/lu.png",
+    "moeilijkheid": 35
+  },
+  {
+    "land": "Madagaskar",
+    "hoofdstad": "Antananarivo",
+    "prominente_steden": [
+      "Antananarivo",
+      "Toamasina",
+      "Antsirabe"
+    ],
+    "inwoners": 27691018,
+    "vlag": "vlaggen/mg.png",
+    "moeilijkheid": 55
+  },
+  {
+    "land": "Malawi",
+    "hoofdstad": "Lilongwe",
+    "prominente_steden": [
+      "Lilongwe",
+      "Blantyre",
+      "Mzuzu"
+    ],
+    "inwoners": 19129952,
+    "vlag": "vlaggen/mw.png",
+    "moeilijkheid": 80
+  },
+  {
+    "land": "Maldiven",
+    "hoofdstad": "Malé",
+    "prominente_steden": [
+      "Malé",
+      "Addu City",
+      "Fuvahmulah"
+    ],
+    "inwoners": 540544,
+    "vlag": "vlaggen/mv.png",
+    "moeilijkheid": 65
+  },
+  {
+    "land": "Maleisië",
+    "hoofdstad": "Kuala Lumpur",
+    "prominente_steden": [
+      "Kuala Lumpur",
+      "George Town",
+      "Johor Bahru"
+    ],
+    "inwoners": 32365999,
+    "vlag": "vlaggen/my.png",
+    "moeilijkheid": 40
+  },
+  {
+    "land": "Mali",
+    "hoofdstad": "Bamako",
+    "prominente_steden": [
+      "Bamako",
+      "Sikasso",
+      "Mopti"
+    ],
+    "inwoners": 20250833,
+    "vlag": "vlaggen/ml.png",
+    "moeilijkheid": 75
+  },
+  {
+    "land": "Malta",
+    "hoofdstad": "Valletta",
+    "prominente_steden": [
+      "Valletta",
+      "Birkirkara",
+      "Sliema"
+    ],
+    "inwoners": 441543,
+    "vlag": "vlaggen/mt.png",
+    "moeilijkheid": 55
+  },
+  {
+    "land": "Marokko",
+    "hoofdstad": "Rabat",
+    "prominente_steden": [
+      "Casablanca",
+      "Marrakech",
+      "Rabat"
+    ],
+    "inwoners": 36910560,
+    "vlag": "vlaggen/ma.png",
+    "moeilijkheid": 30
+  },
+  {
+    "land": "Marshalleilanden",
+    "hoofdstad": "Majuro",
+    "prominente_steden": [
+      "Majuro",
+      "Ebeye",
+      "Jabor"
+    ],
+    "inwoners": 59190,
+    "vlag": "vlaggen/mh.png",
+    "moeilijkheid": 95
+  },
+  {
+    "land": "Mauritanië",
+    "hoofdstad": "Nouakchott",
+    "prominente_steden": [
+      "Nouakchott",
+      "Nouadhibou",
+      "Kiffa"
+    ],
+    "inwoners": 4649658,
+    "vlag": "vlaggen/mr.png",
+    "moeilijkheid": 85
+  },
+  {
+    "land": "Mauritius",
+    "hoofdstad": "Port Louis",
+    "prominente_steden": [
+      "Port Louis",
+      "Beau Bassin-Rose Hill",
+      "Vacoas-Phoenix"
+    ],
+    "inwoners": 1271768,
+    "vlag": "vlaggen/mu.png",
+    "moeilijkheid": 75
+  },
+  {
+    "land": "Mexico",
+    "hoofdstad": "Mexico-Stad",
+    "prominente_steden": [
+      "Mexico-Stad",
+      "Guadalajara",
+      "Monterrey"
+    ],
+    "inwoners": 128932753,
+    "vlag": "vlaggen/mx.png",
+    "moeilijkheid": 15
+  },
+  {
+    "land": "Micronesië",
+    "hoofdstad": "Palikir",
+    "prominente_steden": [
+      "Palikir",
+      "Weno",
+      "Kolonia"
+    ],
+    "inwoners": 115023,
+    "vlag": "vlaggen/fm.png",
+    "moeilijkheid": 95
+  },
+  {
+    "land": "Moldavië",
+    "hoofdstad": "Chișinău",
+    "prominente_steden": [
+      "Chișinău",
+      "Bălți",
+      "Tiraspol"
+    ],
+    "inwoners": 2657637,
+    "vlag": "vlaggen/md.png",
+    "moeilijkheid": 70
+  },
+  {
+    "land": "Monaco",
+    "hoofdstad": "Monaco",
+    "prominente_steden": [
+      "Monte Carlo",
+      "La Condamine",
+      "Fontvieille"
+    ],
+    "inwoners": 39242,
+    "vlag": "vlaggen/mc.png",
+    "moeilijkheid": 55
+  },
+  {
+    "land": "Mongolië",
+    "hoofdstad": "Ulaanbaatar",
+    "prominente_steden": [
+      "Ulaanbaatar",
+      "Erdenet",
+      "Darkhan"
+    ],
+    "inwoners": 3278290,
+    "vlag": "vlaggen/mn.png",
+    "moeilijkheid": 60
+  },
+  {
+    "land": "Montenegro",
+    "hoofdstad": "Podgorica",
+    "prominente_steden": [
+      "Podgorica",
+      "Nikšić",
+      "Budva"
+    ],
+    "inwoners": 628066,
+    "vlag": "vlaggen/me.png",
+    "moeilijkheid": 65
+  },
+  {
+    "land": "Mozambique",
+    "hoofdstad": "Maputo",
+    "prominente_steden": [
+      "Maputo",
+      "Matola",
+      "Beira"
+    ],
+    "inwoners": 31255435,
+    "vlag": "vlaggen/mz.png",
+    "moeilijkheid": 70
+  },
+  {
+    "land": "Myanmar",
+    "hoofdstad": "Naypyidaw",
+    "prominente_steden": [
+      "Yangon",
+      "Mandalay",
+      "Naypyidaw"
+    ],
+    "inwoners": 54409800,
+    "vlag": "vlaggen/mm.png",
+    "moeilijkheid": 65
+  },
+  {
+    "land": "Namibië",
+    "hoofdstad": "Windhoek",
+    "prominente_steden": [
+      "Windhoek",
+      "Walvisbaai",
+      "Swakopmund"
+    ],
+    "inwoners": 2540905,
+    "vlag": "vlaggen/na.png",
+    "moeilijkheid": 60
+  },
+  {
+    "land": "Nauru",
+    "hoofdstad": "Yaren",
+    "prominente_steden": [
+      "Yaren",
+      "Denigomodu",
+      "Meneng"
+    ],
+    "inwoners": 10824,
+    "vlag": "vlaggen/nr.png",
+    "moeilijkheid": 95
+  },
+  {
+    "land": "Nederland",
+    "hoofdstad": "Amsterdam",
+    "prominente_steden": [
+      "Amsterdam",
+      "Rotterdam",
+      "Den Haag"
+    ],
+    "inwoners": 17441139,
+    "vlag": "vlaggen/nl.png",
+    "moeilijkheid": 0
+  },
+  {
+    "land": "Nepal",
+    "hoofdstad": "Kathmandu",
+    "prominente_steden": [
+      "Kathmandu",
+      "Pokhara",
+      "Lalitpur"
+    ],
+    "inwoners": 29136808,
+    "vlag": "vlaggen/np.png",
+    "moeilijkheid": 40
+  },
+  {
+    "land": "Nicaragua",
+    "hoofdstad": "Managua",
+    "prominente_steden": [
+      "Managua",
+      "León",
+      "Masaya"
+    ],
+    "inwoners": 6624554,
+    "vlag": "vlaggen/ni.png",
+    "moeilijkheid": 65
+  },
+  {
+    "land": "Nieuw-Zeeland",
+    "hoofdstad": "Wellington",
+    "prominente_steden": [
+      "Auckland",
+      "Wellington",
+      "Christchurch"
+    ],
+    "inwoners": 5084300,
+    "vlag": "vlaggen/nz.png",
+    "moeilijkheid": 15
+  },
+  {
+    "land": "Niger",
+    "hoofdstad": "Niamey",
+    "prominente_steden": [
+      "Niamey",
+      "Zinder",
+      "Maradi"
+    ],
+    "inwoners": 24206644,
+    "vlag": "vlaggen/ne.png",
+    "moeilijkheid": 75
+  },
+  {
+    "land": "Nigeria",
+    "hoofdstad": "Abuja",
+    "prominente_steden": [
+      "Lagos",
+      "Kano",
+      "Abuja"
+    ],
+    "inwoners": 206139589,
+    "vlag": "vlaggen/ng.png",
+    "moeilijkheid": 40
+  },
+  {
+    "land": "Noord-Korea",
+    "hoofdstad": "Pyongyang",
+    "prominente_steden": [
+      "Pyongyang",
+      "Hamhung",
+      "Chongjin"
+    ],
+    "inwoners": 25778816,
+    "vlag": "vlaggen/kp.png",
+    "moeilijkheid": 30
+  },
+  {
+    "land": "Noord-Macedonië",
+    "hoofdstad": "Skopje",
+    "prominente_steden": [
+      "Skopje",
+      "Bitola",
+      "Kumanovo"
+    ],
+    "inwoners": 2083374,
+    "vlag": "vlaggen/mk.png",
+    "moeilijkheid": 65
+  },
+  {
+    "land": "Noorwegen",
+    "hoofdstad": "Oslo",
+    "prominente_steden": [
+      "Oslo",
+      "Bergen",
+      "Trondheim"
+    ],
+    "inwoners": 5421241,
+    "vlag": "vlaggen/no.png",
+    "moeilijkheid": 10
+  },
+  {
+    "land": "Oeganda",
+    "hoofdstad": "Kampala",
+    "prominente_steden": [
+      "Kampala",
+      "Gulu",
+      "Lira"
+    ],
+    "inwoners": 45741007,
+    "vlag": "vlaggen/ug.png",
+    "moeilijkheid": 60
+  },
+  {
+    "land": "Oekraïne",
+    "hoofdstad": "Kiev",
+    "prominente_steden": [
+      "Kiev",
+      "Charkov",
+      "Odessa"
+    ],
+    "inwoners": 44134693,
+    "vlag": "vlaggen/ua.png",
+    "moeilijkheid": 25
+  },
+  {
+    "land": "Oezbekistan",
+    "hoofdstad": "Tasjkent",
+    "prominente_steden": [
+      "Tasjkent",
+      "Samarkand",
+      "Namangan"
+    ],
+    "inwoners": 33469203,
+    "vlag": "vlaggen/uz.png",
+    "moeilijkheid": 75
+  },
+  {
+    "land": "Oman",
+    "hoofdstad": "Muscat",
+    "prominente_steden": [
+      "Muscat",
+      "Salalah",
+      "Sohar"
+    ],
+    "inwoners": 5106626,
+    "vlag": "vlaggen/om.png",
+    "moeilijkheid": 65
+  },
+  {
+    "land": "Oostenrijk",
+    "hoofdstad": "Wenen",
+    "prominente_steden": [
+      "Wenen",
+      "Graz",
+      "Linz"
+    ],
+    "inwoners": 9006398,
+    "vlag": "vlaggen/at.png",
+    "moeilijkheid": 15
+  },
+  {
+    "land": "Oost-Timor",
+    "hoofdstad": "Dili",
+    "prominente_steden": [
+      "Dili",
+      "Baucau",
+      "Maliana"
+    ],
+    "inwoners": 1318445,
+    "vlag": "vlaggen/tl.png",
+    "moeilijkheid": 85
+  },
+  {
+    "land": "Pakistan",
+    "hoofdstad": "Islamabad",
+    "prominente_steden": [
+      "Karachi",
+      "Lahore",
+      "Islamabad"
+    ],
+    "inwoners": 220892340,
+    "vlag": "vlaggen/pk.png",
+    "moeilijkheid": 35
+  },
+  {
+    "land": "Palau",
+    "hoofdstad": "Ngerulmud",
+    "prominente_steden": [
+      "Koror",
+      "Ngerulmud",
+      "Melekeok"
+    ],
+    "inwoners": 18094,
+    "vlag": "vlaggen/pw.png",
+    "moeilijkheid": 95
+  },
+  {
+    "land": "Panama",
+    "hoofdstad": "Panama-Stad",
+    "prominente_steden": [
+      "Panama-Stad",
+      "Colón",
+      "David"
+    ],
+    "inwoners": 4314767,
+    "vlag": "vlaggen/pa.png",
+    "moeilijkheid": 45
+  },
+  {
+    "land": "Papoea-Nieuw-Guinea",
+    "hoofdstad": "Port Moresby",
+    "prominente_steden": [
+      "Port Moresby",
+      "Lae",
+      "Mount Hagen"
+    ],
+    "inwoners": 8947024,
+    "vlag": "vlaggen/pg.png",
+    "moeilijkheid": 70
+  },
+  {
+    "land": "Paraguay",
+    "hoofdstad": "Asunción",
+    "prominente_steden": [
+      "Asunción",
+      "Ciudad del Este",
+      "San Lorenzo"
+    ],
+    "inwoners": 7132538,
+    "vlag": "vlaggen/py.png",
+    "moeilijkheid": 60
+  },
+  {
+    "land": "Peru",
+    "hoofdstad": "Lima",
+    "prominente_steden": [
+      "Lima",
+      "Arequipa",
+      "Trujillo"
+    ],
+    "inwoners": 32971854,
+    "vlag": "vlaggen/pe.png",
+    "moeilijkheid": 35
+  },
+  {
+    "land": "Polen",
+    "hoofdstad": "Warschau",
+    "prominente_steden": [
+      "Warschau",
+      "Krakau",
+      "Łódź"
+    ],
+    "inwoners": 37846611,
+    "vlag": "vlaggen/pl.png",
+    "moeilijkheid": 20
+  },
+  {
+    "land": "Portugal",
+    "hoofdstad": "Lissabon",
+    "prominente_steden": [
+      "Lissabon",
+      "Porto",
+      "Braga"
+    ],
+    "inwoners": 10196709,
+    "vlag": "vlaggen/pt.png",
+    "moeilijkheid": 15
+  },
+  {
+    "land": "Qatar",
+    "hoofdstad": "Doha",
+    "prominente_steden": [
+      "Doha",
+      "Al Rayyan",
+      "Al Wakrah"
+    ],
+    "inwoners": 2881053,
+    "vlag": "vlaggen/qa.png",
+    "moeilijkheid": 45
+  },
+  {
+    "land": "Roemenië",
+    "hoofdstad": "Boekarest",
+    "prominente_steden": [
+      "Boekarest",
+      "Cluj-Napoca",
+      "Timișoara"
+    ],
+    "inwoners": 19237691,
+    "vlag": "vlaggen/ro.png",
+    "moeilijkheid": 35
+  },
+  {
+    "land": "Rusland",
+    "hoofdstad": "Moskou",
+    "prominente_steden": [
+      "Moskou",
+      "Sint-Petersburg",
+      "Novosibirsk"
+    ],
+    "inwoners": 145934462,
+    "vlag": "vlaggen/ru.png",
+    "moeilijkheid": 10
+  },
+  {
+    "land": "Rwanda",
+    "hoofdstad": "Kigali",
+    "prominente_steden": [
+      "Kigali",
+      "Butare",
+      "Gitarama"
+    ],
+    "inwoners": 12952218,
+    "vlag": "vlaggen/rw.png",
+    "moeilijkheid": 65
+  },
+  {
+    "land": "Saint Kitts en Nevis",
+    "hoofdstad": "Basseterre",
+    "prominente_steden": [
+      "Basseterre",
+      "Charlestown",
+      "Sandy Point"
+    ],
+    "inwoners": 53199,
+    "vlag": "vlaggen/kn.png",
+    "moeilijkheid": 95
+  },
+  {
+    "land": "Saint Lucia",
+    "hoofdstad": "Castries",
+    "prominente_steden": [
+      "Castries",
+      "Vieux Fort",
+      "Soufrière"
+    ],
+    "inwoners": 183627,
+    "vlag": "vlaggen/lc.png",
+    "moeilijkheid": 90
+  },
+  {
+    "land": "Saint Vincent en de Grenadines",
+    "hoofdstad": "Kingstown",
+    "prominente_steden": [
+      "Kingstown",
+      "Georgetown",
+      "Barrouallie"
+    ],
+    "inwoners": 110940,
+    "vlag": "vlaggen/vc.png",
+    "moeilijkheid": 95
+  },
+  {
+    "land": "Salomonseilanden",
+    "hoofdstad": "Honiara",
+    "prominente_steden": [
+      "Honiara",
+      "Auki",
+      "Gizo"
+    ],
+    "inwoners": 686884,
+    "vlag": "vlaggen/sb.png",
+    "moeilijkheid": 90
+  },
+  {
+    "land": "Samoa",
+    "hoofdstad": "Apia",
+    "prominente_steden": [
+      "Apia",
+      "Vaitele",
+      "Faleula"
+    ],
+    "inwoners": 198414,
+    "vlag": "vlaggen/ws.png",
+    "moeilijkheid": 85
+  },
+  {
+    "land": "San Marino",
+    "hoofdstad": "San Marino",
+    "prominente_steden": [
+      "Serravalle",
+      "Borgo Maggiore",
+      "San Marino"
+    ],
+    "inwoners": 33931,
+    "vlag": "vlaggen/sm.png",
+    "moeilijkheid": 75
+  },
+  {
+    "land": "Sao Tomé en Principe",
+    "hoofdstad": "São Tomé",
+    "prominente_steden": [
+      "São Tomé",
+      "Santo Amaro",
+      "Neves"
+    ],
+    "inwoners": 219159,
+    "vlag": "vlaggen/st.png",
+    "moeilijkheid": 95
+  },
+  {
+    "land": "Saoedi-Arabië",
+    "hoofdstad": "Riyad",
+    "prominente_steden": [
+      "Riyad",
+      "Jeddah",
+      "Mekka"
+    ],
+    "inwoners": 34813871,
+    "vlag": "vlaggen/sa.png",
+    "moeilijkheid": 30
+  },
+  {
+    "land": "Senegal",
+    "hoofdstad": "Dakar",
+    "prominente_steden": [
+      "Dakar",
+      "Thiès",
+      "Saint-Louis"
+    ],
+    "inwoners": 16743927,
+    "vlag": "vlaggen/sn.png",
+    "moeilijkheid": 60
+  },
+  {
+    "land": "Servië",
+    "hoofdstad": "Belgrado",
+    "prominente_steden": [
+      "Belgrado",
+      "Novi Sad",
+      "Niš"
+    ],
+    "inwoners": 6908224,
+    "vlag": "vlaggen/rs.png",
+    "moeilijkheid": 45
+  },
+  {
+    "land": "Seychellen",
+    "hoofdstad": "Victoria",
+    "prominente_steden": [
+      "Victoria",
+      "Anse Boileau",
+      "Beau Vallon"
+    ],
+    "inwoners": 98347,
+    "vlag": "vlaggen/sc.png",
+    "moeilijkheid": 80
+  },
+  {
+    "land": "Sierra Leone",
+    "hoofdstad": "Freetown",
+    "prominente_steden": [
+      "Freetown",
+      "Bo",
+      "Kenema"
+    ],
+    "inwoners": 7976983,
+    "vlag": "vlaggen/sl.png",
+    "moeilijkheid": 75
+  },
+  {
+    "land": "Singapore",
+    "hoofdstad": "Singapore",
+    "prominente_steden": [
+      "Singapore",
+      "Jurong East",
+      "Tampines"
+    ],
+    "inwoners": 5850342,
+    "vlag": "vlaggen/sg.png",
+    "moeilijkheid": 35
+  },
+  {
+    "land": "Slovenië",
+    "hoofdstad": "Ljubljana",
+    "prominente_steden": [
+      "Ljubljana",
+      "Maribor",
+      "Celje"
+    ],
+    "inwoners": 2078938,
+    "vlag": "vlaggen/si.png",
+    "moeilijkheid": 50
+  },
+  {
+    "land": "Slowakije",
+    "hoofdstad": "Bratislava",
+    "prominente_steden": [
+      "Bratislava",
+      "Košice",
+      "Prešov"
+    ],
+    "inwoners": 5459642,
+    "vlag": "vlaggen/sk.png",
+    "moeilijkheid": 45
+  },
+  {
+    "land": "Soedan",
+    "hoofdstad": "Khartoem",
+    "prominente_steden": [
+      "Khartoem",
+      "Omdurman",
+      "Port Soedan"
+    ],
+    "inwoners": 43849260,
+    "vlag": "vlaggen/sd.png",
+    "moeilijkheid": 55
+  },
+  {
+    "land": "Somalië",
+    "hoofdstad": "Mogadishu",
+    "prominente_steden": [
+      "Mogadishu",
+      "Hargeisa",
+      "Kismayo"
+    ],
+    "inwoners": 15893222,
+    "vlag": "vlaggen/so.png",
+    "moeilijkheid": 50
+  },
+  {
+    "land": "Spanje",
+    "hoofdstad": "Madrid",
+    "prominente_steden": [
+      "Madrid",
+      "Barcelona",
+      "Valencia"
+    ],
+    "inwoners": 46754778,
+    "vlag": "vlaggen/es.png",
+    "moeilijkheid": 5
+  },
+  {
+    "land": "Sri Lanka",
+    "hoofdstad": "Sri Jayawardenepura Kotte",
+    "prominente_steden": [
+      "Colombo",
+      "Kandy",
+      "Galle"
+    ],
+    "inwoners": 21413249,
+    "vlag": "vlaggen/lk.png",
+    "moeilijkheid": 45
+  },
+  {
+    "land": "Suriname",
+    "hoofdstad": "Paramaribo",
+    "prominente_steden": [
+      "Paramaribo",
+      "Lelydorp",
+      "Nieuw Nickerie"
+    ],
+    "inwoners": 586632,
+    "vlag": "vlaggen/sr.png",
+    "moeilijkheid": 30
+  },
+  {
+    "land": "Syrië",
+    "hoofdstad": "Damascus",
+    "prominente_steden": [
+      "Damascus",
+      "Aleppo",
+      "Homs"
+    ],
+    "inwoners": 17500658,
+    "vlag": "vlaggen/sy.png",
+    "moeilijkheid": 40
+  },
+  {
+    "land": "Tadzjikistan",
+    "hoofdstad": "Doesjanbe",
+    "prominente_steden": [
+      "Doesjanbe",
+      "Khujand",
+      "Kulob"
+    ],
+    "inwoners": 9537645,
+    "vlag": "vlaggen/tj.png",
+    "moeilijkheid": 85
+  },
+  {
+    "land": "Tanzania",
+    "hoofdstad": "Dodoma",
+    "prominente_steden": [
+      "Dar es Salaam",
+      "Mwanza",
+      "Dodoma"
+    ],
+    "inwoners": 59734218,
+    "vlag": "vlaggen/tz.png",
+    "moeilijkheid": 50
+  },
+  {
+    "land": "Thailand",
+    "hoofdstad": "Bangkok",
+    "prominente_steden": [
+      "Bangkok",
+      "Chiang Mai",
+      "Pattaya"
+    ],
+    "inwoners": 69799978,
+    "vlag": "vlaggen/th.png",
+    "moeilijkheid": 20
+  },
+  {
+    "land": "Togo",
+    "hoofdstad": "Lomé",
+    "prominente_steden": [
+      "Lomé",
+      "Sokodé",
+      "Kara"
+    ],
+    "inwoners": 8278724,
+    "vlag": "vlaggen/tg.png",
+    "moeilijkheid": 80
+  },
+  {
+    "land": "Tonga",
+    "hoofdstad": "Nukuʻalofa",
+    "prominente_steden": [
+      "Nukuʻalofa",
+      "Neiafu",
+      "Haveluloto"
+    ],
+    "inwoners": 105695,
+    "vlag": "vlaggen/to.png",
+    "moeilijkheid": 90
+  },
+  {
+    "land": "Trinidad en Tobago",
+    "hoofdstad": "Port of Spain",
+    "prominente_steden": [
+      "Port of Spain",
+      "Chaguanas",
+      "San Fernando"
+    ],
+    "inwoners": 1399488,
+    "vlag": "vlaggen/tt.png",
+    "moeilijkheid": 70
+  },
+  {
+    "land": "Tsjaad",
+    "hoofdstad": "N'Djamena",
+    "prominente_steden": [
+      "N'Djamena",
+      "Moundou",
+      "Abéché"
+    ],
+    "inwoners": 16425864,
+    "vlag": "vlaggen/td.png",
+    "moeilijkheid": 75
+  },
+  {
+    "land": "Tsjechië",
+    "hoofdstad": "Praag",
+    "prominente_steden": [
+      "Praag",
+      "Brno",
+      "Ostrava"
+    ],
+    "inwoners": 10708981,
+    "vlag": "vlaggen/cz.png",
+    "moeilijkheid": 30
+  },
+  {
+    "land": "Tunesië",
+    "hoofdstad": "Tunis",
+    "prominente_steden": [
+      "Tunis",
+      "Sfax",
+      "Sousse"
+    ],
+    "inwoners": 11818619,
+    "vlag": "vlaggen/tn.png",
+    "moeilijkheid": 45
+  },
+  {
+    "land": "Turkije",
+    "hoofdstad": "Ankara",
+    "prominente_steden": [
+      "Istanbul",
+      "Ankara",
+      "Izmir"
+    ],
+    "inwoners": 84339067,
+    "vlag": "vlaggen/tr.png",
+    "moeilijkheid": 15
+  },
+  {
+    "land": "Turkmenistan",
+    "hoofdstad": "Asjchabad",
+    "prominente_steden": [
+      "Asjchabad",
+      "Türkmenabat",
+      "Daşoguz"
+    ],
+    "inwoners": 6031200,
+    "vlag": "vlaggen/tm.png",
+    "moeilijkheid": 80
+  },
+  {
+    "land": "Tuvalu",
+    "hoofdstad": "Funafuti",
+    "prominente_steden": [
+      "Funafuti",
+      "Asau",
+      "Savave"
+    ],
+    "inwoners": 11792,
+    "vlag": "vlaggen/tv.png",
+    "moeilijkheid": 95
+  },
+  {
+    "land": "Uruguay",
+    "hoofdstad": "Montevideo",
+    "prominente_steden": [
+      "Montevideo",
+      "Salto",
+      "Paysandú"
+    ],
+    "inwoners": 3473730,
+    "vlag": "vlaggen/uy.png",
+    "moeilijkheid": 50
+  },
+  {
+    "land": "Vanuatu",
+    "hoofdstad": "Port Vila",
+    "prominente_steden": [
+      "Port Vila",
+      "Luganville",
+      "Norsup"
+    ],
+    "inwoners": 307145,
+    "vlag": "vlaggen/vu.png",
+    "moeilijkheid": 90
+  },
+  {
+    "land": "Vaticaanstad",
+    "hoofdstad": "Vaticaanstad",
+    "prominente_steden": [
+      "Vaticaanstad"
+    ],
+    "inwoners": 800,
+    "vlag": "vlaggen/va.png",
+    "moeilijkheid": 45
+  },
+  {
+    "land": "Venezuela",
+    "hoofdstad": "Caracas",
+    "prominente_steden": [
+      "Caracas",
+      "Maracaibo",
+      "Valencia"
+    ],
+    "inwoners": 28436866,
+    "vlag": "vlaggen/ve.png",
+    "moeilijkheid": 40
+  },
+  {
+    "land": "Verenigd Koninkrijk",
+    "hoofdstad": "Londen",
+    "prominente_steden": [
+      "Londen",
+      "Birmingham",
+      "Manchester"
+    ],
+    "inwoners": 67886011,
+    "vlag": "vlaggen/gb.png",
+    "moeilijkheid": 5
+  },
+  {
+    "land": "Verenigde Arabische Emiraten",
+    "hoofdstad": "Abu Dhabi",
+    "prominente_steden": [
+      "Dubai",
+      "Abu Dhabi",
+      "Sharjah"
+    ],
+    "inwoners": 9890402,
+    "vlag": "vlaggen/ae.png",
+    "moeilijkheid": 35
+  },
+  {
+    "land": "Verenigde Staten",
+    "hoofdstad": "Washington D.C.",
+    "prominente_steden": [
+      "New York",
+      "Los Angeles",
+      "Chicago"
+    ],
+    "inwoners": 331002651,
+    "vlag": "vlaggen/us.png",
+    "moeilijkheid": 5
+  },
+  {
+    "land": "Vietnam",
+    "hoofdstad": "Hanoi",
+    "prominente_steden": [
+      "Ho Chi Minhstad",
+      "Hanoi",
+      "Haiphong"
+    ],
+    "inwoners": 97338579,
+    "vlag": "vlaggen/vn.png",
+    "moeilijkheid": 35
+  },
+  {
+    "land": "Zambia",
+    "hoofdstad": "Lusaka",
+    "prominente_steden": [
+      "Lusaka",
+      "Kitwe",
+      "Ndola"
+    ],
+    "inwoners": 18383955,
+    "vlag": "vlaggen/zm.png",
+    "moeilijkheid": 70
+  },
+  {
+    "land": "Zimbabwe",
+    "hoofdstad": "Harare",
+    "prominente_steden": [
+      "Harare",
+      "Bulawayo",
+      "Chitungwiza"
+    ],
+    "inwoners": 14862924,
+    "vlag": "vlaggen/zw.png",
+    "moeilijkheid": 60
+  },
+  {
+    "land": "Zuid-Afrika",
+    "hoofdstad": "Pretoria",
+    "prominente_steden": [
+      "Johannesburg",
+      "Kaapstad",
+      "Durban"
+    ],
+    "inwoners": 59308690,
+    "vlag": "vlaggen/za.png",
+    "moeilijkheid": 20
+  },
+  {
+    "land": "Zuid-Korea",
+    "hoofdstad": "Seoul",
+    "prominente_steden": [
+      "Seoul",
+      "Busan",
+      "Incheon"
+    ],
+    "inwoners": 51780579,
+    "vlag": "vlaggen/kr.png",
+    "moeilijkheid": 15
+  },
+  {
+    "land": "Zuid-Soedan",
+    "hoofdstad": "Juba",
+    "prominente_steden": [
+      "Juba",
+      "Malakal",
+      "Wau"
+    ],
+    "inwoners": 11193725,
+    "vlag": "vlaggen/ss.png",
+    "moeilijkheid": 75
+  },
+  {
+    "land": "Zweden",
+    "hoofdstad": "Stockholm",
+    "prominente_steden": [
+      "Stockholm",
+      "Göteborg",
+      "Malmö"
+    ],
+    "inwoners": 10099265,
+    "vlag": "vlaggen/se.png",
+    "moeilijkheid": 10
+  },
+  {
+    "land": "Zwitserland",
+    "hoofdstad": "Bern",
+    "prominente_steden": [
+      "Zürich",
+      "Genève",
+      "Bazel"
+    ],
+    "inwoners": 8654622,
+    "vlag": "vlaggen/ch.png",
+    "moeilijkheid": 10
+  }
+]
