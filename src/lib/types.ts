@@ -5,6 +5,7 @@ export interface Land {
   inwoners: number;
   vlag: string;
   moeilijkheid: number;
+  continent: string;
 }
 
 export type GameStatus = "idle" | "playing" | "feedback" | "gameover";
@@ -22,4 +23,5 @@ export interface HighScore {
   streak: number;
   date: string;
   totalAnswered: number;
+  name?: string;
 }

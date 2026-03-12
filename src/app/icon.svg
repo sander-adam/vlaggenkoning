@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  <!-- Rounded square background -->
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <!-- Crown -->
+  <g transform="translate(256,230)" fill="#fbbf24">
+    <!-- Crown base -->
+    <rect x="-120" y="20" width="240" height="40" rx="8" fill="#f59e0b"/>
+    <!-- Crown points -->
+    <polygon points="-120,20 -120,-50 -80,-10 -40,-60 0,-10 40,-60 80,-10 120,-50 120,20"/>
+    <!-- Crown jewels -->
+    <circle cx="-80" cy="-10" r="12" fill="#ef4444"/>
+    <circle cx="0" cy="-20" r="14" fill="#3b82f6"/>
+    <circle cx="80" cy="-10" r="12" fill="#22c55e"/>
+  </g>
+  <!-- Flag pole -->
+  <rect x="168" y="300" width="8" height="130" rx="4" fill="#e5e7eb"/>
+  <!-- Flag -->
+  <g transform="translate(176,300)">
+    <rect width="120" height="24" fill="#ef4444"/>
+    <rect y="24" width="120" height="24" fill="#ffffff"/>
+    <rect y="48" width="120" height="24" fill="#1d4ed8"/>
+  </g>
+</svg>

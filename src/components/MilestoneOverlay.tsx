@@ -16,6 +16,13 @@ interface MilestoneOverlayProps {
 
 export default function MilestoneOverlay({ milestone, onDismiss }: MilestoneOverlayProps) {
   useEffect(() => {
+    if (!milestone) return;
+    const handleKeyDown = () => onDismiss();
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [milestone, onDismiss]);
+
+  useEffect(() => {
     if (milestone) {
       // Big celebration confetti
       const duration = 2000;
@@ -33,10 +40,8 @@ export default function MilestoneOverlay({ milestone, onDismiss }: MilestoneOver
         });
       }, 200);
 
-      const timer = setTimeout(onDismiss, 3000);
       return () => {
         clearInterval(interval);
-        clearTimeout(timer);
       };
     }
   }, [milestone, onDismiss]);

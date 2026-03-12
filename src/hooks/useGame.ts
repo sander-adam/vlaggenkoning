@@ -50,7 +50,7 @@ export function useGame() {
 
       setState((prev) => ({
         ...prev,
-        status: correct ? "feedback" : "gameover",
+        status: "feedback",
         streak: newStreak,
         totalAnswered: prev.totalAnswered + 1,
         lastAnswerCorrect: correct,
@@ -73,6 +73,10 @@ export function useGame() {
     setLevelledUp(false);
   }, [state.currentLand, state.streak]);
 
+  const goToGameOver = useCallback(() => {
+    setState((prev) => ({ ...prev, status: "gameover" }));
+  }, []);
+
   const resetGame = useCallback(() => {
     setState(initialState);
     setMilestone(null);
@@ -86,6 +90,7 @@ export function useGame() {
     startGame,
     submitAnswer,
     nextRound,
+    goToGameOver,
     resetGame,
   };
 }

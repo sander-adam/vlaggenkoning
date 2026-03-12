@@ -13,7 +13,7 @@ const allLanden: Land[] = landen;
  *   streak 15-24: moeilijkheid 20-95
  *   streak 25+:  alles (0-100)
  */
-function getDifficultyRange(streak: number): [number, number] {
+export function getDifficultyRange(streak: number): [number, number] {
   if (streak <= 2) return [0, 30];
   if (streak <= 5) return [0, 50];
   if (streak <= 9) return [0, 70];

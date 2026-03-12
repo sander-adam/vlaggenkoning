@@ -9,7 +9,8 @@
     ],
     "inwoners": 41128771,
     "vlag": "vlaggen/af.png",
-    "moeilijkheid": 45
+    "moeilijkheid": 45,
+    "continent": "Azië"
   },
   {
     "land": "Albanië",
@@ -21,7 +22,8 @@
     ],
     "inwoners": 2877797,
     "vlag": "vlaggen/al.png",
-    "moeilijkheid": 65
+    "moeilijkheid": 65,
+    "continent": "Europa"
   },
   {
     "land": "Algerije",
@@ -33,7 +35,8 @@
     ],
     "inwoners": 44903225,
     "vlag": "vlaggen/dz.png",
-    "moeilijkheid": 55
+    "moeilijkheid": 55,
+    "continent": "Afrika"
   },
   {
     "land": "Andorra",
@@ -45,7 +48,8 @@
     ],
     "inwoners": 77265,
     "vlag": "vlaggen/ad.png",
-    "moeilijkheid": 70
+    "moeilijkheid": 70,
+    "continent": "Europa"
   },
   {
     "land": "Angola",
@@ -57,7 +61,8 @@
     ],
     "inwoners": 33933610,
     "vlag": "vlaggen/ao.png",
-    "moeilijkheid": 65
+    "moeilijkheid": 65,
+    "continent": "Afrika"
   },
   {
     "land": "Antigua en Barbuda",
@@ -69,7 +74,8 @@
     ],
     "inwoners": 97929,
     "vlag": "vlaggen/ag.png",
-    "moeilijkheid": 90
+    "moeilijkheid": 90,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Argentinië",
@@ -81,7 +87,8 @@
     ],
     "inwoners": 45376763,
     "vlag": "vlaggen/ar.png",
-    "moeilijkheid": 25
+    "moeilijkheid": 25,
+    "continent": "Zuid-Amerika"
   },
   {
     "land": "Armenië",
@@ -93,7 +100,8 @@
     ],
     "inwoners": 2963243,
     "vlag": "vlaggen/am.png",
-    "moeilijkheid": 70
+    "moeilijkheid": 70,
+    "continent": "Azië"
   },
   {
     "land": "Australië",
@@ -105,7 +113,8 @@
     ],
     "inwoners": 25978935,
     "vlag": "vlaggen/au.png",
-    "moeilijkheid": 5
+    "moeilijkheid": 5,
+    "continent": "Oceanië"
   },
   {
     "land": "Azerbeidzjan",
@@ -117,7 +126,8 @@
     ],
     "inwoners": 10139177,
     "vlag": "vlaggen/az.png",
-    "moeilijkheid": 75
+    "moeilijkheid": 75,
+    "continent": "Azië"
   },
   {
     "land": "Bahama's",
@@ -129,7 +139,8 @@
     ],
     "inwoners": 393244,
     "vlag": "vlaggen/bs.png",
-    "moeilijkheid": 60
+    "moeilijkheid": 60,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Bahrein",
@@ -141,7 +152,8 @@
     ],
     "inwoners": 1472233,
     "vlag": "vlaggen/bh.png",
-    "moeilijkheid": 75
+    "moeilijkheid": 75,
+    "continent": "Azië"
   },
   {
     "land": "Bangladesh",
@@ -153,7 +165,8 @@
     ],
     "inwoners": 169356251,
     "vlag": "vlaggen/bd.png",
-    "moeilijkheid": 50
+    "moeilijkheid": 50,
+    "continent": "Azië"
   },
   {
     "land": "Barbados",
@@ -165,7 +178,8 @@
     ],
     "inwoners": 287375,
     "vlag": "vlaggen/bb.png",
-    "moeilijkheid": 75
+    "moeilijkheid": 75,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Belarus",
@@ -177,7 +191,8 @@
     ],
     "inwoners": 9449323,
     "vlag": "vlaggen/by.png",
-    "moeilijkheid": 55
+    "moeilijkheid": 55,
+    "continent": "Europa"
   },
   {
     "land": "België",
@@ -189,7 +204,8 @@
     ],
     "inwoners": 11589623,
     "vlag": "vlaggen/be.png",
-    "moeilijkheid": 5
+    "moeilijkheid": 5,
+    "continent": "Europa"
   },
   {
     "land": "Belize",
@@ -201,7 +217,8 @@
     ],
     "inwoners": 397628,
     "vlag": "vlaggen/bz.png",
-    "moeilijkheid": 80
+    "moeilijkheid": 80,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Benin",
@@ -213,7 +230,8 @@
     ],
     "inwoners": 12123200,
     "vlag": "vlaggen/bj.png",
-    "moeilijkheid": 80
+    "moeilijkheid": 80,
+    "continent": "Afrika"
   },
   {
     "land": "Bhutan",
@@ -225,7 +243,8 @@
     ],
     "inwoners": 771608,
     "vlag": "vlaggen/bt.png",
-    "moeilijkheid": 75
+    "moeilijkheid": 75,
+    "continent": "Azië"
   },
   {
     "land": "Bolivia",
@@ -237,7 +256,8 @@
     ],
     "inwoners": 11673021,
     "vlag": "vlaggen/bo.png",
-    "moeilijkheid": 55
+    "moeilijkheid": 55,
+    "continent": "Zuid-Amerika"
   },
   {
     "land": "Bosnië en Herzegovina",
@@ -249,7 +269,8 @@
     ],
     "inwoners": 3280819,
     "vlag": "vlaggen/ba.png",
-    "moeilijkheid": 55
+    "moeilijkheid": 55,
+    "continent": "Europa"
   },
   {
     "land": "Botswana",
@@ -261,7 +282,8 @@
     ],
     "inwoners": 2351627,
     "vlag": "vlaggen/bw.png",
-    "moeilijkheid": 65
+    "moeilijkheid": 65,
+    "continent": "Afrika"
   },
   {
     "land": "Brazilië",
@@ -273,7 +295,8 @@
     ],
     "inwoners": 212559417,
     "vlag": "vlaggen/br.png",
-    "moeilijkheid": 10
+    "moeilijkheid": 10,
+    "continent": "Zuid-Amerika"
   },
   {
     "land": "Brunei",
@@ -285,7 +308,8 @@
     ],
     "inwoners": 437479,
     "vlag": "vlaggen/bn.png",
-    "moeilijkheid": 80
+    "moeilijkheid": 80,
+    "continent": "Azië"
   },
   {
     "land": "Bulgarije",
@@ -297,7 +321,8 @@
     ],
     "inwoners": 6927288,
     "vlag": "vlaggen/bg.png",
-    "moeilijkheid": 45
+    "moeilijkheid": 45,
+    "continent": "Europa"
   },
   {
     "land": "Burkina Faso",
@@ -309,7 +334,8 @@
     ],
     "inwoners": 20903273,
     "vlag": "vlaggen/bf.png",
-    "moeilijkheid": 80
+    "moeilijkheid": 80,
+    "continent": "Afrika"
   },
   {
     "land": "Burundi",
@@ -321,7 +347,8 @@
     ],
     "inwoners": 11890784,
     "vlag": "vlaggen/bi.png",
-    "moeilijkheid": 85
+    "moeilijkheid": 85,
+    "continent": "Afrika"
   },
   {
     "land": "Cabo Verde",
@@ -333,7 +360,8 @@
     ],
     "inwoners": 555987,
     "vlag": "vlaggen/cv.png",
-    "moeilijkheid": 85
+    "moeilijkheid": 85,
+    "continent": "Afrika"
   },
   {
     "land": "Cambodja",
@@ -345,7 +373,8 @@
     ],
     "inwoners": 16718965,
     "vlag": "vlaggen/kh.png",
-    "moeilijkheid": 65
+    "moeilijkheid": 65,
+    "continent": "Azië"
   },
   {
     "land": "Canada",
@@ -357,7 +386,8 @@
     ],
     "inwoners": 38005238,
     "vlag": "vlaggen/ca.png",
-    "moeilijkheid": 10
+    "moeilijkheid": 10,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Centraal-Afrikaanse Republiek",
@@ -369,7 +399,8 @@
     ],
     "inwoners": 4829767,
     "vlag": "vlaggen/cf.png",
-    "moeilijkheid": 80
+    "moeilijkheid": 80,
+    "continent": "Afrika"
   },
   {
     "land": "Chili",
@@ -381,7 +412,8 @@
     ],
     "inwoners": 19116201,
     "vlag": "vlaggen/cl.png",
-    "moeilijkheid": 35
+    "moeilijkheid": 35,
+    "continent": "Zuid-Amerika"
   },
   {
     "land": "China",
@@ -393,7 +425,8 @@
     ],
     "inwoners": 1411778724,
     "vlag": "vlaggen/cn.png",
-    "moeilijkheid": 5
+    "moeilijkheid": 5,
+    "continent": "Azië"
   },
   {
     "land": "Colombia",
@@ -405,7 +438,8 @@
     ],
     "inwoners": 50882891,
     "vlag": "vlaggen/co.png",
-    "moeilijkheid": 35
+    "moeilijkheid": 35,
+    "continent": "Zuid-Amerika"
   },
   {
     "land": "Comoren",
@@ -417,7 +451,8 @@
     ],
     "inwoners": 869601,
     "vlag": "vlaggen/km.png",
-    "moeilijkheid": 95
+    "moeilijkheid": 95,
+    "continent": "Afrika"
   },
   {
     "land": "Congo-Brazzaville",
@@ -429,7 +464,8 @@
     ],
     "inwoners": 5518087,
     "vlag": "vlaggen/cg.png",
-    "moeilijkheid": 75
+    "moeilijkheid": 75,
+    "continent": "Afrika"
   },
   {
     "land": "Congo-Kinshasa",
@@ -441,7 +477,8 @@
     ],
     "inwoners": 89561403,
     "vlag": "vlaggen/cd.png",
-    "moeilijkheid": 70
+    "moeilijkheid": 70,
+    "continent": "Afrika"
   },
   {
     "land": "Costa Rica",
@@ -453,7 +490,8 @@
     ],
     "inwoners": 5094118,
     "vlag": "vlaggen/cr.png",
-    "moeilijkheid": 45
+    "moeilijkheid": 45,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Cuba",
@@ -465,7 +503,8 @@
     ],
     "inwoners": 11326616,
     "vlag": "vlaggen/cu.png",
-    "moeilijkheid": 30
+    "moeilijkheid": 30,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Cyprus",
@@ -477,7 +516,8 @@
     ],
     "inwoners": 1207359,
     "vlag": "vlaggen/cy.png",
-    "moeilijkheid": 50
+    "moeilijkheid": 50,
+    "continent": "Europa"
   },
   {
     "land": "Denemarken",
@@ -489,7 +529,8 @@
     ],
     "inwoners": 5818553,
     "vlag": "vlaggen/dk.png",
-    "moeilijkheid": 10
+    "moeilijkheid": 10,
+    "continent": "Europa"
   },
   {
     "land": "Djibouti",
@@ -501,7 +542,8 @@
     ],
     "inwoners": 988000,
     "vlag": "vlaggen/dj.png",
-    "moeilijkheid": 85
+    "moeilijkheid": 85,
+    "continent": "Afrika"
   },
   {
     "land": "Dominica",
@@ -513,7 +555,8 @@
     ],
     "inwoners": 71986,
     "vlag": "vlaggen/dm.png",
-    "moeilijkheid": 90
+    "moeilijkheid": 90,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Dominicaanse Republiek",
@@ -525,7 +568,8 @@
     ],
     "inwoners": 10847910,
     "vlag": "vlaggen/do.png",
-    "moeilijkheid": 50
+    "moeilijkheid": 50,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Duitsland",
@@ -537,7 +581,8 @@
     ],
     "inwoners": 83783942,
     "vlag": "vlaggen/de.png",
-    "moeilijkheid": 5
+    "moeilijkheid": 5,
+    "continent": "Europa"
   },
   {
     "land": "Ecuador",
@@ -549,7 +594,8 @@
     ],
     "inwoners": 17643054,
     "vlag": "vlaggen/ec.png",
-    "moeilijkheid": 50
+    "moeilijkheid": 50,
+    "continent": "Zuid-Amerika"
   },
   {
     "land": "Egypte",
@@ -561,7 +607,8 @@
     ],
     "inwoners": 102334404,
     "vlag": "vlaggen/eg.png",
-    "moeilijkheid": 15
+    "moeilijkheid": 15,
+    "continent": "Afrika"
   },
   {
     "land": "El Salvador",
@@ -573,7 +620,8 @@
     ],
     "inwoners": 6486205,
     "vlag": "vlaggen/sv.png",
-    "moeilijkheid": 65
+    "moeilijkheid": 65,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Equatoriaal-Guinea",
@@ -585,7 +633,8 @@
     ],
     "inwoners": 1402985,
     "vlag": "vlaggen/gq.png",
-    "moeilijkheid": 90
+    "moeilijkheid": 90,
+    "continent": "Afrika"
   },
   {
     "land": "Eritrea",
@@ -597,7 +646,8 @@
     ],
     "inwoners": 3546421,
     "vlag": "vlaggen/er.png",
-    "moeilijkheid": 80
+    "moeilijkheid": 80,
+    "continent": "Afrika"
   },
   {
     "land": "Estland",
@@ -609,7 +659,8 @@
     ],
     "inwoners": 1326535,
     "vlag": "vlaggen/ee.png",
-    "moeilijkheid": 50
+    "moeilijkheid": 50,
+    "continent": "Europa"
   },
   {
     "land": "Eswatini",
@@ -621,7 +672,8 @@
     ],
     "inwoners": 1160164,
     "vlag": "vlaggen/sz.png",
-    "moeilijkheid": 85
+    "moeilijkheid": 85,
+    "continent": "Afrika"
   },
   {
     "land": "Ethiopië",
@@ -633,7 +685,8 @@
     ],
     "inwoners": 114963588,
     "vlag": "vlaggen/et.png",
-    "moeilijkheid": 50
+    "moeilijkheid": 50,
+    "continent": "Afrika"
   },
   {
     "land": "Fiji",
@@ -645,7 +698,8 @@
     ],
     "inwoners": 896445,
     "vlag": "vlaggen/fj.png",
-    "moeilijkheid": 70
+    "moeilijkheid": 70,
+    "continent": "Oceanië"
   },
   {
     "land": "Filipijnen",
@@ -657,7 +711,8 @@
     ],
     "inwoners": 109581078,
     "vlag": "vlaggen/ph.png",
-    "moeilijkheid": 40
+    "moeilijkheid": 40,
+    "continent": "Azië"
   },
   {
     "land": "Finland",
@@ -669,7 +724,8 @@
     ],
     "inwoners": 5540720,
     "vlag": "vlaggen/fi.png",
-    "moeilijkheid": 15
+    "moeilijkheid": 15,
+    "continent": "Europa"
   },
   {
     "land": "Frankrijk",
@@ -681,7 +737,8 @@
     ],
     "inwoners": 67390000,
     "vlag": "vlaggen/fr.png",
-    "moeilijkheid": 5
+    "moeilijkheid": 5,
+    "continent": "Europa"
   },
   {
     "land": "Gabon",
@@ -693,7 +750,8 @@
     ],
     "inwoners": 2225734,
     "vlag": "vlaggen/ga.png",
-    "moeilijkheid": 80
+    "moeilijkheid": 80,
+    "continent": "Afrika"
   },
   {
     "land": "Gambia",
@@ -705,7 +763,8 @@
     ],
     "inwoners": 2416668,
     "vlag": "vlaggen/gm.png",
-    "moeilijkheid": 85
+    "moeilijkheid": 85,
+    "continent": "Afrika"
   },
   {
     "land": "Georgië",
@@ -717,7 +776,8 @@
     ],
     "inwoners": 3989167,
     "vlag": "vlaggen/ge.png",
-    "moeilijkheid": 60
+    "moeilijkheid": 60,
+    "continent": "Azië"
   },
   {
     "land": "Ghana",
@@ -729,7 +789,8 @@
     ],
     "inwoners": 31072940,
     "vlag": "vlaggen/gh.png",
-    "moeilijkheid": 55
+    "moeilijkheid": 55,
+    "continent": "Afrika"
   },
   {
     "land": "Grenada",
@@ -741,7 +802,8 @@
     ],
     "inwoners": 112523,
     "vlag": "vlaggen/gd.png",
-    "moeilijkheid": 90
+    "moeilijkheid": 90,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Griekenland",
@@ -753,7 +815,8 @@
     ],
     "inwoners": 10423054,
     "vlag": "vlaggen/gr.png",
-    "moeilijkheid": 15
+    "moeilijkheid": 15,
+    "continent": "Europa"
   },
   {
     "land": "Guatemala",
@@ -765,7 +828,8 @@
     ],
     "inwoners": 16858333,
     "vlag": "vlaggen/gt.png",
-    "moeilijkheid": 60
+    "moeilijkheid": 60,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Guinee",
@@ -777,7 +841,8 @@
     ],
     "inwoners": 13132795,
     "vlag": "vlaggen/gn.png",
-    "moeilijkheid": 80
+    "moeilijkheid": 80,
+    "continent": "Afrika"
   },
   {
     "land": "Guinee-Bissau",
@@ -789,7 +854,8 @@
     ],
     "inwoners": 1968001,
     "vlag": "vlaggen/gw.png",
-    "moeilijkheid": 90
+    "moeilijkheid": 90,
+    "continent": "Afrika"
   },
   {
     "land": "Guyana",
@@ -801,7 +867,8 @@
     ],
     "inwoners": 786552,
     "vlag": "vlaggen/gy.png",
-    "moeilijkheid": 80
+    "moeilijkheid": 80,
+    "continent": "Zuid-Amerika"
   },
   {
     "land": "Haïti",
@@ -813,7 +880,8 @@
     ],
     "inwoners": 11402528,
     "vlag": "vlaggen/ht.png",
-    "moeilijkheid": 60
+    "moeilijkheid": 60,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Honduras",
@@ -825,7 +893,8 @@
     ],
     "inwoners": 9904607,
     "vlag": "vlaggen/hn.png",
-    "moeilijkheid": 65
+    "moeilijkheid": 65,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Hongarije",
@@ -837,7 +906,8 @@
     ],
     "inwoners": 9660351,
     "vlag": "vlaggen/hu.png",
-    "moeilijkheid": 35
+    "moeilijkheid": 35,
+    "continent": "Europa"
   },
   {
     "land": "Ierland",
@@ -849,7 +919,8 @@
     ],
     "inwoners": 4937786,
     "vlag": "vlaggen/ie.png",
-    "moeilijkheid": 15
+    "moeilijkheid": 15,
+    "continent": "Europa"
   },
   {
     "land": "IJsland",
@@ -861,7 +932,8 @@
     ],
     "inwoners": 366425,
     "vlag": "vlaggen/is.png",
-    "moeilijkheid": 25
+    "moeilijkheid": 25,
+    "continent": "Europa"
   },
   {
     "land": "India",
@@ -873,7 +945,8 @@
     ],
     "inwoners": 1380004385,
     "vlag": "vlaggen/in.png",
-    "moeilijkheid": 10
+    "moeilijkheid": 10,
+    "continent": "Azië"
   },
   {
     "land": "Indonesië",
@@ -885,7 +958,8 @@
     ],
     "inwoners": 273523615,
     "vlag": "vlaggen/id.png",
-    "moeilijkheid": 35
+    "moeilijkheid": 35,
+    "continent": "Azië"
   },
   {
     "land": "Irak",
@@ -897,7 +971,8 @@
     ],
     "inwoners": 40222493,
     "vlag": "vlaggen/iq.png",
-    "moeilijkheid": 35
+    "moeilijkheid": 35,
+    "continent": "Azië"
   },
   {
     "land": "Iran",
@@ -909,7 +984,8 @@
     ],
     "inwoners": 83992949,
     "vlag": "vlaggen/ir.png",
-    "moeilijkheid": 30
+    "moeilijkheid": 30,
+    "continent": "Azië"
   },
   {
     "land": "Israël",
@@ -921,7 +997,8 @@
     ],
     "inwoners": 8655535,
     "vlag": "vlaggen/il.png",
-    "moeilijkheid": 25
+    "moeilijkheid": 25,
+    "continent": "Azië"
   },
   {
     "land": "Italië",
@@ -933,7 +1010,8 @@
     ],
     "inwoners": 60461826,
     "vlag": "vlaggen/it.png",
-    "moeilijkheid": 5
+    "moeilijkheid": 5,
+    "continent": "Europa"
   },
   {
     "land": "Ivoorkust",
@@ -945,7 +1023,8 @@
     ],
     "inwoners": 26378274,
     "vlag": "vlaggen/ci.png",
-    "moeilijkheid": 70
+    "moeilijkheid": 70,
+    "continent": "Afrika"
   },
   {
     "land": "Jamaica",
@@ -957,7 +1036,8 @@
     ],
     "inwoners": 2961167,
     "vlag": "vlaggen/jm.png",
-    "moeilijkheid": 35
+    "moeilijkheid": 35,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Japan",
@@ -969,7 +1049,8 @@
     ],
     "inwoners": 126476461,
     "vlag": "vlaggen/jp.png",
-    "moeilijkheid": 5
+    "moeilijkheid": 5,
+    "continent": "Azië"
   },
   {
     "land": "Jemen",
@@ -981,7 +1062,8 @@
     ],
     "inwoners": 29825964,
     "vlag": "vlaggen/ye.png",
-    "moeilijkheid": 60
+    "moeilijkheid": 60,
+    "continent": "Azië"
   },
   {
     "land": "Jordanië",
@@ -993,7 +1075,8 @@
     ],
     "inwoners": 10203134,
     "vlag": "vlaggen/jo.png",
-    "moeilijkheid": 50
+    "moeilijkheid": 50,
+    "continent": "Azië"
   },
   {
     "land": "Kameroen",
@@ -1005,7 +1088,8 @@
     ],
     "inwoners": 26545863,
     "vlag": "vlaggen/cm.png",
-    "moeilijkheid": 60
+    "moeilijkheid": 60,
+    "continent": "Afrika"
   },
   {
     "land": "Kazachstan",
@@ -1017,7 +1101,8 @@
     ],
     "inwoners": 18776707,
     "vlag": "vlaggen/kz.png",
-    "moeilijkheid": 55
+    "moeilijkheid": 55,
+    "continent": "Azië"
   },
   {
     "land": "Kenia",
@@ -1029,7 +1114,8 @@
     ],
     "inwoners": 53771296,
     "vlag": "vlaggen/ke.png",
-    "moeilijkheid": 40
+    "moeilijkheid": 40,
+    "continent": "Afrika"
   },
   {
     "land": "Kirgizië",
@@ -1041,7 +1127,8 @@
     ],
     "inwoners": 6524195,
     "vlag": "vlaggen/kg.png",
-    "moeilijkheid": 80
+    "moeilijkheid": 80,
+    "continent": "Azië"
   },
   {
     "land": "Kiribati",
@@ -1053,7 +1140,8 @@
     ],
     "inwoners": 119449,
     "vlag": "vlaggen/ki.png",
-    "moeilijkheid": 95
+    "moeilijkheid": 95,
+    "continent": "Oceanië"
   },
   {
     "land": "Koeweit",
@@ -1065,7 +1153,8 @@
     ],
     "inwoners": 4270571,
     "vlag": "vlaggen/kw.png",
-    "moeilijkheid": 55
+    "moeilijkheid": 55,
+    "continent": "Azië"
   },
   {
     "land": "Kroatië",
@@ -1077,7 +1166,8 @@
     ],
     "inwoners": 4105267,
     "vlag": "vlaggen/hr.png",
-    "moeilijkheid": 35
+    "moeilijkheid": 35,
+    "continent": "Europa"
   },
   {
     "land": "Laos",
@@ -1089,7 +1179,8 @@
     ],
     "inwoners": 7275560,
     "vlag": "vlaggen/la.png",
-    "moeilijkheid": 75
+    "moeilijkheid": 75,
+    "continent": "Azië"
   },
   {
     "land": "Lesotho",
@@ -1101,7 +1192,8 @@
     ],
     "inwoners": 2142249,
     "vlag": "vlaggen/ls.png",
-    "moeilijkheid": 85
+    "moeilijkheid": 85,
+    "continent": "Afrika"
   },
   {
     "land": "Letland",
@@ -1113,7 +1205,8 @@
     ],
     "inwoners": 1886198,
     "vlag": "vlaggen/lv.png",
-    "moeilijkheid": 55
+    "moeilijkheid": 55,
+    "continent": "Europa"
   },
   {
     "land": "Libanon",
@@ -1125,7 +1218,8 @@
     ],
     "inwoners": 6825445,
     "vlag": "vlaggen/lb.png",
-    "moeilijkheid": 50
+    "moeilijkheid": 50,
+    "continent": "Azië"
   },
   {
     "land": "Liberia",
@@ -1137,7 +1231,8 @@
     ],
     "inwoners": 5057681,
     "vlag": "vlaggen/lr.png",
-    "moeilijkheid": 75
+    "moeilijkheid": 75,
+    "continent": "Afrika"
   },
   {
     "land": "Libië",
@@ -1149,7 +1244,8 @@
     ],
     "inwoners": 6871292,
     "vlag": "vlaggen/ly.png",
-    "moeilijkheid": 55
+    "moeilijkheid": 55,
+    "continent": "Afrika"
   },
   {
     "land": "Liechtenstein",
@@ -1161,7 +1257,8 @@
     ],
     "inwoners": 38128,
     "vlag": "vlaggen/li.png",
-    "moeilijkheid": 65
+    "moeilijkheid": 65,
+    "continent": "Europa"
   },
   {
     "land": "Litouwen",
@@ -1173,7 +1270,8 @@
     ],
     "inwoners": 2722289,
     "vlag": "vlaggen/lt.png",
-    "moeilijkheid": 50
+    "moeilijkheid": 50,
+    "continent": "Europa"
   },
   {
     "land": "Luxemburg",
@@ -1185,7 +1283,8 @@
     ],
     "inwoners": 625978,
     "vlag": "vlaggen/lu.png",
-    "moeilijkheid": 35
+    "moeilijkheid": 35,
+    "continent": "Europa"
   },
   {
     "land": "Madagaskar",
@@ -1197,7 +1296,8 @@
     ],
     "inwoners": 27691018,
     "vlag": "vlaggen/mg.png",
-    "moeilijkheid": 55
+    "moeilijkheid": 55,
+    "continent": "Afrika"
   },
   {
     "land": "Malawi",
@@ -1209,7 +1309,8 @@
     ],
     "inwoners": 19129952,
     "vlag": "vlaggen/mw.png",
-    "moeilijkheid": 80
+    "moeilijkheid": 80,
+    "continent": "Afrika"
   },
   {
     "land": "Maldiven",
@@ -1221,7 +1322,8 @@
     ],
     "inwoners": 540544,
     "vlag": "vlaggen/mv.png",
-    "moeilijkheid": 65
+    "moeilijkheid": 65,
+    "continent": "Azië"
   },
   {
     "land": "Maleisië",
@@ -1233,7 +1335,8 @@
     ],
     "inwoners": 32365999,
     "vlag": "vlaggen/my.png",
-    "moeilijkheid": 40
+    "moeilijkheid": 40,
+    "continent": "Azië"
   },
   {
     "land": "Mali",
@@ -1245,7 +1348,8 @@
     ],
     "inwoners": 20250833,
     "vlag": "vlaggen/ml.png",
-    "moeilijkheid": 75
+    "moeilijkheid": 75,
+    "continent": "Afrika"
   },
   {
     "land": "Malta",
@@ -1257,7 +1361,8 @@
     ],
     "inwoners": 441543,
     "vlag": "vlaggen/mt.png",
-    "moeilijkheid": 55
+    "moeilijkheid": 55,
+    "continent": "Europa"
   },
   {
     "land": "Marokko",
@@ -1269,7 +1374,8 @@
     ],
     "inwoners": 36910560,
     "vlag": "vlaggen/ma.png",
-    "moeilijkheid": 30
+    "moeilijkheid": 30,
+    "continent": "Afrika"
   },
   {
     "land": "Marshalleilanden",
@@ -1281,7 +1387,8 @@
     ],
     "inwoners": 59190,
     "vlag": "vlaggen/mh.png",
-    "moeilijkheid": 95
+    "moeilijkheid": 95,
+    "continent": "Oceanië"
   },
   {
     "land": "Mauritanië",
@@ -1293,7 +1400,8 @@
     ],
     "inwoners": 4649658,
     "vlag": "vlaggen/mr.png",
-    "moeilijkheid": 85
+    "moeilijkheid": 85,
+    "continent": "Afrika"
   },
   {
     "land": "Mauritius",
@@ -1305,7 +1413,8 @@
     ],
     "inwoners": 1271768,
     "vlag": "vlaggen/mu.png",
-    "moeilijkheid": 75
+    "moeilijkheid": 75,
+    "continent": "Afrika"
   },
   {
     "land": "Mexico",
@@ -1317,7 +1426,8 @@
     ],
     "inwoners": 128932753,
     "vlag": "vlaggen/mx.png",
-    "moeilijkheid": 15
+    "moeilijkheid": 15,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Micronesië",
@@ -1329,7 +1439,8 @@
     ],
     "inwoners": 115023,
     "vlag": "vlaggen/fm.png",
-    "moeilijkheid": 95
+    "moeilijkheid": 95,
+    "continent": "Oceanië"
   },
   {
     "land": "Moldavië",
@@ -1341,7 +1452,8 @@
     ],
     "inwoners": 2657637,
     "vlag": "vlaggen/md.png",
-    "moeilijkheid": 70
+    "moeilijkheid": 70,
+    "continent": "Europa"
   },
   {
     "land": "Monaco",
@@ -1353,7 +1465,8 @@
     ],
     "inwoners": 39242,
     "vlag": "vlaggen/mc.png",
-    "moeilijkheid": 55
+    "moeilijkheid": 55,
+    "continent": "Europa"
   },
   {
     "land": "Mongolië",
@@ -1365,7 +1478,8 @@
     ],
     "inwoners": 3278290,
     "vlag": "vlaggen/mn.png",
-    "moeilijkheid": 60
+    "moeilijkheid": 60,
+    "continent": "Azië"
   },
   {
     "land": "Montenegro",
@@ -1377,7 +1491,8 @@
     ],
     "inwoners": 628066,
     "vlag": "vlaggen/me.png",
-    "moeilijkheid": 65
+    "moeilijkheid": 65,
+    "continent": "Europa"
   },
   {
     "land": "Mozambique",
@@ -1389,7 +1504,8 @@
     ],
     "inwoners": 31255435,
     "vlag": "vlaggen/mz.png",
-    "moeilijkheid": 70
+    "moeilijkheid": 70,
+    "continent": "Afrika"
   },
   {
     "land": "Myanmar",
@@ -1401,7 +1517,8 @@
     ],
     "inwoners": 54409800,
     "vlag": "vlaggen/mm.png",
-    "moeilijkheid": 65
+    "moeilijkheid": 65,
+    "continent": "Azië"
   },
   {
     "land": "Namibië",
@@ -1413,7 +1530,8 @@
     ],
     "inwoners": 2540905,
     "vlag": "vlaggen/na.png",
-    "moeilijkheid": 60
+    "moeilijkheid": 60,
+    "continent": "Afrika"
   },
   {
     "land": "Nauru",
@@ -1425,7 +1543,8 @@
     ],
     "inwoners": 10824,
     "vlag": "vlaggen/nr.png",
-    "moeilijkheid": 95
+    "moeilijkheid": 95,
+    "continent": "Oceanië"
   },
   {
     "land": "Nederland",
@@ -1437,7 +1556,8 @@
     ],
     "inwoners": 17441139,
     "vlag": "vlaggen/nl.png",
-    "moeilijkheid": 0
+    "moeilijkheid": 0,
+    "continent": "Europa"
   },
   {
     "land": "Nepal",
@@ -1449,7 +1569,8 @@
     ],
     "inwoners": 29136808,
     "vlag": "vlaggen/np.png",
-    "moeilijkheid": 40
+    "moeilijkheid": 40,
+    "continent": "Azië"
   },
   {
     "land": "Nicaragua",
@@ -1461,7 +1582,8 @@
     ],
     "inwoners": 6624554,
     "vlag": "vlaggen/ni.png",
-    "moeilijkheid": 65
+    "moeilijkheid": 65,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Nieuw-Zeeland",
@@ -1473,7 +1595,8 @@
     ],
     "inwoners": 5084300,
     "vlag": "vlaggen/nz.png",
-    "moeilijkheid": 15
+    "moeilijkheid": 15,
+    "continent": "Oceanië"
   },
   {
     "land": "Niger",
@@ -1485,7 +1608,8 @@
     ],
     "inwoners": 24206644,
     "vlag": "vlaggen/ne.png",
-    "moeilijkheid": 75
+    "moeilijkheid": 75,
+    "continent": "Afrika"
   },
   {
     "land": "Nigeria",
@@ -1497,7 +1621,8 @@
     ],
     "inwoners": 206139589,
     "vlag": "vlaggen/ng.png",
-    "moeilijkheid": 40
+    "moeilijkheid": 40,
+    "continent": "Afrika"
   },
   {
     "land": "Noord-Korea",
@@ -1509,7 +1634,8 @@
     ],
     "inwoners": 25778816,
     "vlag": "vlaggen/kp.png",
-    "moeilijkheid": 30
+    "moeilijkheid": 30,
+    "continent": "Azië"
   },
   {
     "land": "Noord-Macedonië",
@@ -1521,7 +1647,8 @@
     ],
     "inwoners": 2083374,
     "vlag": "vlaggen/mk.png",
-    "moeilijkheid": 65
+    "moeilijkheid": 65,
+    "continent": "Europa"
   },
   {
     "land": "Noorwegen",
@@ -1533,7 +1660,8 @@
     ],
     "inwoners": 5421241,
     "vlag": "vlaggen/no.png",
-    "moeilijkheid": 10
+    "moeilijkheid": 10,
+    "continent": "Europa"
   },
   {
     "land": "Oeganda",
@@ -1545,7 +1673,8 @@
     ],
     "inwoners": 45741007,
     "vlag": "vlaggen/ug.png",
-    "moeilijkheid": 60
+    "moeilijkheid": 60,
+    "continent": "Afrika"
   },
   {
     "land": "Oekraïne",
@@ -1557,7 +1686,8 @@
     ],
     "inwoners": 44134693,
     "vlag": "vlaggen/ua.png",
-    "moeilijkheid": 25
+    "moeilijkheid": 25,
+    "continent": "Europa"
   },
   {
     "land": "Oezbekistan",
@@ -1569,7 +1699,8 @@
     ],
     "inwoners": 33469203,
     "vlag": "vlaggen/uz.png",
-    "moeilijkheid": 75
+    "moeilijkheid": 75,
+    "continent": "Azië"
   },
   {
     "land": "Oman",
@@ -1581,7 +1712,8 @@
     ],
     "inwoners": 5106626,
     "vlag": "vlaggen/om.png",
-    "moeilijkheid": 65
+    "moeilijkheid": 65,
+    "continent": "Azië"
   },
   {
     "land": "Oostenrijk",
@@ -1593,7 +1725,8 @@
     ],
     "inwoners": 9006398,
     "vlag": "vlaggen/at.png",
-    "moeilijkheid": 15
+    "moeilijkheid": 15,
+    "continent": "Europa"
   },
   {
     "land": "Oost-Timor",
@@ -1605,7 +1738,8 @@
     ],
     "inwoners": 1318445,
     "vlag": "vlaggen/tl.png",
-    "moeilijkheid": 85
+    "moeilijkheid": 85,
+    "continent": "Azië"
   },
   {
     "land": "Pakistan",
@@ -1617,7 +1751,8 @@
     ],
     "inwoners": 220892340,
     "vlag": "vlaggen/pk.png",
-    "moeilijkheid": 35
+    "moeilijkheid": 35,
+    "continent": "Azië"
   },
   {
     "land": "Palau",
@@ -1629,7 +1764,8 @@
     ],
     "inwoners": 18094,
     "vlag": "vlaggen/pw.png",
-    "moeilijkheid": 95
+    "moeilijkheid": 95,
+    "continent": "Oceanië"
   },
   {
     "land": "Panama",
@@ -1641,7 +1777,8 @@
     ],
     "inwoners": 4314767,
     "vlag": "vlaggen/pa.png",
-    "moeilijkheid": 45
+    "moeilijkheid": 45,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Papoea-Nieuw-Guinea",
@@ -1653,7 +1790,8 @@
     ],
     "inwoners": 8947024,
     "vlag": "vlaggen/pg.png",
-    "moeilijkheid": 70
+    "moeilijkheid": 70,
+    "continent": "Oceanië"
   },
   {
     "land": "Paraguay",
@@ -1665,7 +1803,8 @@
     ],
     "inwoners": 7132538,
     "vlag": "vlaggen/py.png",
-    "moeilijkheid": 60
+    "moeilijkheid": 60,
+    "continent": "Zuid-Amerika"
   },
   {
     "land": "Peru",
@@ -1677,7 +1816,8 @@
     ],
     "inwoners": 32971854,
     "vlag": "vlaggen/pe.png",
-    "moeilijkheid": 35
+    "moeilijkheid": 35,
+    "continent": "Zuid-Amerika"
   },
   {
     "land": "Polen",
@@ -1689,7 +1829,8 @@
     ],
     "inwoners": 37846611,
     "vlag": "vlaggen/pl.png",
-    "moeilijkheid": 20
+    "moeilijkheid": 20,
+    "continent": "Europa"
   },
   {
     "land": "Portugal",
@@ -1701,7 +1842,8 @@
     ],
     "inwoners": 10196709,
     "vlag": "vlaggen/pt.png",
-    "moeilijkheid": 15
+    "moeilijkheid": 15,
+    "continent": "Europa"
   },
   {
     "land": "Qatar",
@@ -1713,7 +1855,8 @@
     ],
     "inwoners": 2881053,
     "vlag": "vlaggen/qa.png",
-    "moeilijkheid": 45
+    "moeilijkheid": 45,
+    "continent": "Azië"
   },
   {
     "land": "Roemenië",
@@ -1725,7 +1868,8 @@
     ],
     "inwoners": 19237691,
     "vlag": "vlaggen/ro.png",
-    "moeilijkheid": 35
+    "moeilijkheid": 35,
+    "continent": "Europa"
   },
   {
     "land": "Rusland",
@@ -1737,7 +1881,8 @@
     ],
     "inwoners": 145934462,
     "vlag": "vlaggen/ru.png",
-    "moeilijkheid": 10
+    "moeilijkheid": 10,
+    "continent": "Europa"
   },
   {
     "land": "Rwanda",
@@ -1749,7 +1894,8 @@
     ],
     "inwoners": 12952218,
     "vlag": "vlaggen/rw.png",
-    "moeilijkheid": 65
+    "moeilijkheid": 65,
+    "continent": "Afrika"
   },
   {
     "land": "Saint Kitts en Nevis",
@@ -1761,7 +1907,8 @@
     ],
     "inwoners": 53199,
     "vlag": "vlaggen/kn.png",
-    "moeilijkheid": 95
+    "moeilijkheid": 95,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Saint Lucia",
@@ -1773,7 +1920,8 @@
     ],
     "inwoners": 183627,
     "vlag": "vlaggen/lc.png",
-    "moeilijkheid": 90
+    "moeilijkheid": 90,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Saint Vincent en de Grenadines",
@@ -1785,7 +1933,8 @@
     ],
     "inwoners": 110940,
     "vlag": "vlaggen/vc.png",
-    "moeilijkheid": 95
+    "moeilijkheid": 95,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Salomonseilanden",
@@ -1797,7 +1946,8 @@
     ],
     "inwoners": 686884,
     "vlag": "vlaggen/sb.png",
-    "moeilijkheid": 90
+    "moeilijkheid": 90,
+    "continent": "Oceanië"
   },
   {
     "land": "Samoa",
@@ -1809,7 +1959,8 @@
     ],
     "inwoners": 198414,
     "vlag": "vlaggen/ws.png",
-    "moeilijkheid": 85
+    "moeilijkheid": 85,
+    "continent": "Oceanië"
   },
   {
     "land": "San Marino",
@@ -1821,7 +1972,8 @@
     ],
     "inwoners": 33931,
     "vlag": "vlaggen/sm.png",
-    "moeilijkheid": 75
+    "moeilijkheid": 75,
+    "continent": "Europa"
   },
   {
     "land": "Sao Tomé en Principe",
@@ -1833,7 +1985,8 @@
     ],
     "inwoners": 219159,
     "vlag": "vlaggen/st.png",
-    "moeilijkheid": 95
+    "moeilijkheid": 95,
+    "continent": "Afrika"
   },
   {
     "land": "Saoedi-Arabië",
@@ -1845,7 +1998,8 @@
     ],
     "inwoners": 34813871,
     "vlag": "vlaggen/sa.png",
-    "moeilijkheid": 30
+    "moeilijkheid": 30,
+    "continent": "Azië"
   },
   {
     "land": "Senegal",
@@ -1857,7 +2011,8 @@
     ],
     "inwoners": 16743927,
     "vlag": "vlaggen/sn.png",
-    "moeilijkheid": 60
+    "moeilijkheid": 60,
+    "continent": "Afrika"
   },
   {
     "land": "Servië",
@@ -1869,7 +2024,8 @@
     ],
     "inwoners": 6908224,
     "vlag": "vlaggen/rs.png",
-    "moeilijkheid": 45
+    "moeilijkheid": 45,
+    "continent": "Europa"
   },
   {
     "land": "Seychellen",
@@ -1881,7 +2037,8 @@
     ],
     "inwoners": 98347,
     "vlag": "vlaggen/sc.png",
-    "moeilijkheid": 80
+    "moeilijkheid": 80,
+    "continent": "Afrika"
   },
   {
     "land": "Sierra Leone",
@@ -1893,7 +2050,8 @@
     ],
     "inwoners": 7976983,
     "vlag": "vlaggen/sl.png",
-    "moeilijkheid": 75
+    "moeilijkheid": 75,
+    "continent": "Afrika"
   },
   {
     "land": "Singapore",
@@ -1905,7 +2063,8 @@
     ],
     "inwoners": 5850342,
     "vlag": "vlaggen/sg.png",
-    "moeilijkheid": 35
+    "moeilijkheid": 35,
+    "continent": "Azië"
   },
   {
     "land": "Slovenië",
@@ -1917,7 +2076,8 @@
     ],
     "inwoners": 2078938,
     "vlag": "vlaggen/si.png",
-    "moeilijkheid": 50
+    "moeilijkheid": 50,
+    "continent": "Europa"
   },
   {
     "land": "Slowakije",
@@ -1929,7 +2089,8 @@
     ],
     "inwoners": 5459642,
     "vlag": "vlaggen/sk.png",
-    "moeilijkheid": 45
+    "moeilijkheid": 45,
+    "continent": "Europa"
   },
   {
     "land": "Soedan",
@@ -1941,7 +2102,8 @@
     ],
     "inwoners": 43849260,
     "vlag": "vlaggen/sd.png",
-    "moeilijkheid": 55
+    "moeilijkheid": 55,
+    "continent": "Afrika"
   },
   {
     "land": "Somalië",
@@ -1953,7 +2115,8 @@
     ],
     "inwoners": 15893222,
     "vlag": "vlaggen/so.png",
-    "moeilijkheid": 50
+    "moeilijkheid": 50,
+    "continent": "Afrika"
   },
   {
     "land": "Spanje",
@@ -1965,7 +2128,8 @@
     ],
     "inwoners": 46754778,
     "vlag": "vlaggen/es.png",
-    "moeilijkheid": 5
+    "moeilijkheid": 5,
+    "continent": "Europa"
   },
   {
     "land": "Sri Lanka",
@@ -1977,7 +2141,8 @@
     ],
     "inwoners": 21413249,
     "vlag": "vlaggen/lk.png",
-    "moeilijkheid": 45
+    "moeilijkheid": 45,
+    "continent": "Azië"
   },
   {
     "land": "Suriname",
@@ -1989,7 +2154,8 @@
     ],
     "inwoners": 586632,
     "vlag": "vlaggen/sr.png",
-    "moeilijkheid": 30
+    "moeilijkheid": 30,
+    "continent": "Zuid-Amerika"
   },
   {
     "land": "Syrië",
@@ -2001,7 +2167,8 @@
     ],
     "inwoners": 17500658,
     "vlag": "vlaggen/sy.png",
-    "moeilijkheid": 40
+    "moeilijkheid": 40,
+    "continent": "Azië"
   },
   {
     "land": "Tadzjikistan",
@@ -2013,7 +2180,8 @@
     ],
     "inwoners": 9537645,
     "vlag": "vlaggen/tj.png",
-    "moeilijkheid": 85
+    "moeilijkheid": 85,
+    "continent": "Azië"
   },
   {
     "land": "Tanzania",
@@ -2025,7 +2193,8 @@
     ],
     "inwoners": 59734218,
     "vlag": "vlaggen/tz.png",
-    "moeilijkheid": 50
+    "moeilijkheid": 50,
+    "continent": "Afrika"
   },
   {
     "land": "Thailand",
@@ -2037,7 +2206,8 @@
     ],
     "inwoners": 69799978,
     "vlag": "vlaggen/th.png",
-    "moeilijkheid": 20
+    "moeilijkheid": 20,
+    "continent": "Azië"
   },
   {
     "land": "Togo",
@@ -2049,7 +2219,8 @@
     ],
     "inwoners": 8278724,
     "vlag": "vlaggen/tg.png",
-    "moeilijkheid": 80
+    "moeilijkheid": 80,
+    "continent": "Afrika"
   },
   {
     "land": "Tonga",
@@ -2061,7 +2232,8 @@
     ],
     "inwoners": 105695,
     "vlag": "vlaggen/to.png",
-    "moeilijkheid": 90
+    "moeilijkheid": 90,
+    "continent": "Oceanië"
   },
   {
     "land": "Trinidad en Tobago",
@@ -2073,7 +2245,8 @@
     ],
     "inwoners": 1399488,
     "vlag": "vlaggen/tt.png",
-    "moeilijkheid": 70
+    "moeilijkheid": 70,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Tsjaad",
@@ -2085,7 +2258,8 @@
     ],
     "inwoners": 16425864,
     "vlag": "vlaggen/td.png",
-    "moeilijkheid": 75
+    "moeilijkheid": 75,
+    "continent": "Afrika"
   },
   {
     "land": "Tsjechië",
@@ -2097,7 +2271,8 @@
     ],
     "inwoners": 10708981,
     "vlag": "vlaggen/cz.png",
-    "moeilijkheid": 30
+    "moeilijkheid": 30,
+    "continent": "Europa"
   },
   {
     "land": "Tunesië",
@@ -2109,7 +2284,8 @@
     ],
     "inwoners": 11818619,
     "vlag": "vlaggen/tn.png",
-    "moeilijkheid": 45
+    "moeilijkheid": 45,
+    "continent": "Afrika"
   },
   {
     "land": "Turkije",
@@ -2121,7 +2297,8 @@
     ],
     "inwoners": 84339067,
     "vlag": "vlaggen/tr.png",
-    "moeilijkheid": 15
+    "moeilijkheid": 15,
+    "continent": "Azië"
   },
   {
     "land": "Turkmenistan",
@@ -2133,7 +2310,8 @@
     ],
     "inwoners": 6031200,
     "vlag": "vlaggen/tm.png",
-    "moeilijkheid": 80
+    "moeilijkheid": 80,
+    "continent": "Azië"
   },
   {
     "land": "Tuvalu",
@@ -2145,7 +2323,8 @@
     ],
     "inwoners": 11792,
     "vlag": "vlaggen/tv.png",
-    "moeilijkheid": 95
+    "moeilijkheid": 95,
+    "continent": "Oceanië"
   },
   {
     "land": "Uruguay",
@@ -2157,7 +2336,8 @@
     ],
     "inwoners": 3473730,
     "vlag": "vlaggen/uy.png",
-    "moeilijkheid": 50
+    "moeilijkheid": 50,
+    "continent": "Zuid-Amerika"
   },
   {
     "land": "Vanuatu",
@@ -2169,7 +2349,8 @@
     ],
     "inwoners": 307145,
     "vlag": "vlaggen/vu.png",
-    "moeilijkheid": 90
+    "moeilijkheid": 90,
+    "continent": "Oceanië"
   },
   {
     "land": "Vaticaanstad",
@@ -2179,7 +2360,8 @@
     ],
     "inwoners": 800,
     "vlag": "vlaggen/va.png",
-    "moeilijkheid": 45
+    "moeilijkheid": 45,
+    "continent": "Europa"
   },
   {
     "land": "Venezuela",
@@ -2191,7 +2373,8 @@
     ],
     "inwoners": 28436866,
     "vlag": "vlaggen/ve.png",
-    "moeilijkheid": 40
+    "moeilijkheid": 40,
+    "continent": "Zuid-Amerika"
   },
   {
     "land": "Verenigd Koninkrijk",
@@ -2203,7 +2386,8 @@
     ],
     "inwoners": 67886011,
     "vlag": "vlaggen/gb.png",
-    "moeilijkheid": 5
+    "moeilijkheid": 5,
+    "continent": "Europa"
   },
   {
     "land": "Verenigde Arabische Emiraten",
@@ -2215,7 +2399,8 @@
     ],
     "inwoners": 9890402,
     "vlag": "vlaggen/ae.png",
-    "moeilijkheid": 35
+    "moeilijkheid": 35,
+    "continent": "Azië"
   },
   {
     "land": "Verenigde Staten",
@@ -2227,7 +2412,8 @@
     ],
     "inwoners": 331002651,
     "vlag": "vlaggen/us.png",
-    "moeilijkheid": 5
+    "moeilijkheid": 5,
+    "continent": "Noord-Amerika"
   },
   {
     "land": "Vietnam",
@@ -2239,7 +2425,8 @@
     ],
     "inwoners": 97338579,
     "vlag": "vlaggen/vn.png",
-    "moeilijkheid": 35
+    "moeilijkheid": 35,
+    "continent": "Azië"
   },
   {
     "land": "Zambia",
@@ -2251,7 +2438,8 @@
     ],
     "inwoners": 18383955,
     "vlag": "vlaggen/zm.png",
-    "moeilijkheid": 70
+    "moeilijkheid": 70,
+    "continent": "Afrika"
   },
   {
     "land": "Zimbabwe",
@@ -2263,7 +2451,8 @@
     ],
     "inwoners": 14862924,
     "vlag": "vlaggen/zw.png",
-    "moeilijkheid": 60
+    "moeilijkheid": 60,
+    "continent": "Afrika"
   },
   {
     "land": "Zuid-Afrika",
@@ -2275,7 +2464,8 @@
     ],
     "inwoners": 59308690,
     "vlag": "vlaggen/za.png",
-    "moeilijkheid": 20
+    "moeilijkheid": 20,
+    "continent": "Afrika"
   },
   {
     "land": "Zuid-Korea",
@@ -2287,7 +2477,8 @@
     ],
     "inwoners": 51780579,
     "vlag": "vlaggen/kr.png",
-    "moeilijkheid": 15
+    "moeilijkheid": 15,
+    "continent": "Azië"
   },
   {
     "land": "Zuid-Soedan",
@@ -2299,7 +2490,8 @@
     ],
     "inwoners": 11193725,
     "vlag": "vlaggen/ss.png",
-    "moeilijkheid": 75
+    "moeilijkheid": 75,
+    "continent": "Afrika"
   },
   {
     "land": "Zweden",
@@ -2311,7 +2503,8 @@
     ],
     "inwoners": 10099265,
     "vlag": "vlaggen/se.png",
-    "moeilijkheid": 10
+    "moeilijkheid": 10,
+    "continent": "Europa"
   },
   {
     "land": "Zwitserland",
@@ -2323,6 +2516,7 @@
     ],
     "inwoners": 8654622,
     "vlag": "vlaggen/ch.png",
-    "moeilijkheid": 10
+    "moeilijkheid": 10,
+    "continent": "Europa"
   }
 ]
