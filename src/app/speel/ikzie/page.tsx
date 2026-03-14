@@ -11,7 +11,7 @@ import ConfettiEffect from "@/components/ConfettiEffect";
 import MilestoneOverlay from "@/components/MilestoneOverlay";
 import ResultFeedback from "@/components/ResultFeedback";
 import NameInput from "@/components/NameInput";
-import { isNewRecord, getPlayerName } from "@/lib/storage";
+import { isNewRecord } from "@/lib/storage";
 
 const hintIcons = ["🌍", "👥", "🔤", "🅰️", "🏙️", "🏛️"];
 
@@ -49,20 +49,13 @@ export default function IkZiePage() {
     }
   }, [game.status, game.startGame]);
 
+  // Reset score-saved state when a new game starts
   useEffect(() => {
-    if (game.status === "gameover" && !scoreSaved.current) {
-      const savedName = getPlayerName();
-      if (savedName) {
-        addScore(game.totalCorrect, game.totalAnswered, savedName);
-        scoreSaved.current = true;
-        setNameEntered(true);
-      }
-    }
     if (game.status === "playing") {
       scoreSaved.current = false;
       setNameEntered(false);
     }
-  }, [game.status, game.totalCorrect, game.totalAnswered, addScore]);
+  }, [game.status]);
 
   const handleNameSubmit = useCallback((name: string) => {
     if (!scoreSaved.current) {

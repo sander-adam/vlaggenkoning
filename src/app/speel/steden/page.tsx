@@ -6,7 +6,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useCityGame } from "@/hooks/useCityGame";
 import type { Stad } from "@/hooks/useCityGame";
 import { useHighScores } from "@/hooks/useHighScores";
-import { isNewRecord, getPlayerName } from "@/lib/storage";
+import { isNewRecord } from "@/lib/storage";
 import { getMilestone } from "@/lib/milestones";
 import StreakBadge from "@/components/StreakBadge";
 import ConfettiEffect from "@/components/ConfettiEffect";
@@ -22,6 +22,7 @@ export default function StedenPage() {
   const [canAdvance, setCanAdvance] = useState(false);
   const [clickedWrong, setClickedWrong] = useState<Stad | null>(null);
   const [lastWrong, setLastWrong] = useState<{ clicked: Stad; correct: Stad } | null>(null);
+  const [selectedCity, setSelectedCity] = useState<Stad | null>(null);
   const [milestone, setMilestone] = useState<ReturnType<typeof getMilestone>>(null);
 
   useEffect(() => {
@@ -30,21 +31,13 @@ export default function StedenPage() {
     }
   }, [game.status, game.startGame]);
 
-  // Save score on game over
+  // Reset score-saved state when a new game starts
   useEffect(() => {
-    if (game.status === "gameover" && !scoreSaved.current) {
-      const savedName = getPlayerName();
-      if (savedName) {
-        addScore(game.streak, game.totalAnswered, savedName);
-        scoreSaved.current = true;
-        setNameEntered(true);
-      }
-    }
     if (game.status === "playing") {
       scoreSaved.current = false;
       setNameEntered(false);
     }
-  }, [game.status, game.streak, game.totalAnswered, addScore]);
+  }, [game.status]);
 
   // Check milestones on correct answer
   useEffect(() => {
@@ -81,6 +74,7 @@ export default function StedenPage() {
     } else {
       setCanAdvance(false);
       setClickedWrong(null);
+      setSelectedCity(null);
     }
   }, [game.status, game.lastCorrect, game.nextRound]);
 
@@ -88,16 +82,22 @@ export default function StedenPage() {
     (stad: Stad) => {
       if (game.status !== "playing") return;
       if (game.correctCities.includes(stad.stad)) return; // already guessed
-      if (stad.stad !== game.currentStad?.stad) {
-        setClickedWrong(stad);
-        if (game.currentStad) {
-          setLastWrong({ clicked: stad, correct: game.currentStad });
-        }
-      }
-      game.guess(stad);
+      setSelectedCity(stad);
     },
-    [game]
+    [game.status, game.correctCities]
   );
+
+  const handleConfirm = useCallback(() => {
+    if (!selectedCity || game.status !== "playing") return;
+    if (selectedCity.stad !== game.currentStad?.stad) {
+      setClickedWrong(selectedCity);
+      if (game.currentStad) {
+        setLastWrong({ clicked: selectedCity, correct: game.currentStad });
+      }
+    }
+    game.guess(selectedCity);
+    setSelectedCity(null);
+  }, [selectedCity, game]);
 
   const handleNext = useCallback(() => {
     if (!canAdvance) return;
@@ -154,14 +154,41 @@ export default function StedenPage() {
 
         {/* Map */}
         {(game.status === "playing" || game.status === "feedback") && (
-          <NetherlandsMap
-            steden={game.visibleSteden}
-            correctCities={game.correctCities}
-            currentStad={game.currentStad}
-            clickedWrong={clickedWrong}
-            onClickStad={handleCityClick}
-            disabled={game.status !== "playing"}
-          />
+          <>
+            <NetherlandsMap
+              steden={game.visibleSteden}
+              correctCities={game.correctCities}
+              currentStad={game.currentStad}
+              clickedWrong={clickedWrong}
+              selectedCity={game.status === "playing" ? selectedCity : null}
+              onClickStad={handleCityClick}
+              disabled={game.status !== "playing"}
+            />
+
+            {/* Confirm selection */}
+            {selectedCity && game.status === "playing" && (
+              <motion.div
+                initial={{ opacity: 0, y: 8 }}
+                animate={{ opacity: 1, y: 0 }}
+                className="flex items-center gap-3"
+              >
+                <button
+                  onClick={handleConfirm}
+                  className="rounded-xl bg-amber-500 px-6 py-2.5 text-lg font-bold text-white shadow-md
+                    active:scale-95 transition-transform"
+                >
+                  Dit is het!
+                </button>
+                <button
+                  onClick={() => setSelectedCity(null)}
+                  className="rounded-xl bg-white/20 px-4 py-2.5 text-sm font-bold text-white/70
+                    active:scale-95 transition-transform"
+                >
+                  Annuleer
+                </button>
+              </motion.div>
+            )}
+          </>
         )}
 
         {/* Feedback */}
@@ -267,6 +294,7 @@ export default function StedenPage() {
                 correctCities={game.correctCities}
                 currentStad={lastWrong?.correct ?? null}
                 clickedWrong={lastWrong?.clicked ?? null}
+                selectedCity={null}
                 onClickStad={() => {}}
                 disabled={true}
               />

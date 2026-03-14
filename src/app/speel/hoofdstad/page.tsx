@@ -6,7 +6,7 @@ import Image from "next/image";
 import { motion, AnimatePresence } from "framer-motion";
 import { useCapitalGame } from "@/hooks/useCapitalGame";
 import { useHighScores } from "@/hooks/useHighScores";
-import { isNewRecord, getPlayerName } from "@/lib/storage";
+import { isNewRecord } from "@/lib/storage";
 import { getMilestone } from "@/lib/milestones";
 import StreakBadge from "@/components/StreakBadge";
 import ConfettiEffect from "@/components/ConfettiEffect";
@@ -26,21 +26,13 @@ export default function HoofdstadPage() {
     }
   }, [game.status, game.startGame]);
 
-  // Save score on game over
+  // Reset score-saved state when a new game starts
   useEffect(() => {
-    if (game.status === "gameover" && !scoreSaved.current) {
-      const savedName = getPlayerName();
-      if (savedName) {
-        addScore(game.streak, game.totalAnswered, savedName);
-        scoreSaved.current = true;
-        setNameEntered(true);
-      }
-    }
     if (game.status === "playing") {
       scoreSaved.current = false;
       setNameEntered(false);
     }
-  }, [game.status, game.streak, game.totalAnswered, addScore]);
+  }, [game.status]);
 
   // Check milestones
   useEffect(() => {

@@ -10,7 +10,7 @@ import ConfettiEffect from "@/components/ConfettiEffect";
 import MilestoneOverlay from "@/components/MilestoneOverlay";
 import LevelBar from "@/components/LevelBar";
 import NameInput from "@/components/NameInput";
-import { isNewRecord, getPlayerName } from "@/lib/storage";
+import { isNewRecord } from "@/lib/storage";
 import { getLevel } from "@/lib/levels";
 
 // Dynamic import to avoid SSR issues with D3/react-simple-maps
@@ -46,21 +46,13 @@ export default function KaartPage() {
     }
   }, [mapReady, game.status, game.startGame]);
 
-  // Auto-save score if player already has a saved name
+  // Reset score-saved state when a new game starts
   useEffect(() => {
-    if (game.status === "gameover" && !scoreSaved.current) {
-      const savedName = getPlayerName();
-      if (savedName) {
-        addScore(game.streak, game.totalAnswered, savedName);
-        scoreSaved.current = true;
-        setNameEntered(true);
-      }
-    }
     if (game.status === "playing") {
       scoreSaved.current = false;
       setNameEntered(false);
     }
-  }, [game.status, game.streak, game.totalAnswered, addScore]);
+  }, [game.status]);
 
   const handleNameSubmit = useCallback((name: string) => {
     if (!scoreSaved.current) {

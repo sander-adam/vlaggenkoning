@@ -22,6 +22,8 @@ interface WorldMapProps {
   onGeographiesLoaded: (codes: Set<string>) => void;
 }
 
+const ZOOM_LEVELS = [1, 2, 3, 4, 5];
+
 interface BBox {
   x: number;
   y: number;
@@ -41,6 +43,23 @@ function WorldMapInner({
   const loadedRef = useRef(false);
   const svgRef = useRef<SVGSVGElement | null>(null);
   const [bboxes, setBboxes] = useState<Record<string, BBox>>({});
+  const [zoom, setZoom] = useState(1);
+  const [center, setCenter] = useState<[number, number]>([0, 0]);
+
+  // Keyboard zoom: 1-5 keys
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+      const key = e.key;
+      if (key >= "1" && key <= "5") {
+        const level = parseInt(key);
+        setZoom(level);
+        if (level === 1) setCenter([0, 0]);
+      }
+    };
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, []);
 
   // Collect all alpha2 codes that need a flag pattern
   const flagCodes = useMemo(() => {
@@ -154,10 +173,41 @@ function WorldMapInner({
   const defaultOutline = useMemo(() => ({ outline: "none" }), []);
 
   return (
-    <ComposableMap
-      projectionConfig={{ rotate: [-10, 0, 0], scale: 147 }}
-      className="w-full h-full"
-    >
+    <div className="relative w-full h-full">
+      {/* Zoom controls */}
+      <div className="absolute top-2 right-2 z-10 flex flex-col items-end gap-1">
+        <div className="flex items-center gap-1 bg-white/80 rounded-lg shadow px-2 py-1 text-gray-500 text-xs font-bold select-none">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+            <circle cx="11" cy="11" r="8" />
+            <line x1="21" y1="21" x2="16.65" y2="16.65" />
+          </svg>
+          Zoom
+        </div>
+        <div className="flex flex-col gap-0.5">
+          {ZOOM_LEVELS.map((level) => (
+            <button
+              key={level}
+              onClick={() => {
+                setZoom(level);
+                if (level === 1) setCenter([0, 0]);
+              }}
+              className={`w-8 h-7 rounded-md shadow text-xs font-bold
+                active:scale-90 transition-all flex items-center justify-center
+                ${Math.round(zoom) === level
+                  ? "bg-blue-500 text-white shadow-blue-500/30"
+                  : "bg-white/80 text-gray-500 hover:bg-white"
+                }`}
+            >
+              {level}
+            </button>
+          ))}
+        </div>
+      </div>
+
+      <ComposableMap
+        projectionConfig={{ rotate: [-10, 0, 0], scale: 147 }}
+        className="w-full h-full"
+      >
       <defs>
         {[...flagCodes].map((code) => {
           const bb = bboxes[code];
@@ -184,7 +234,18 @@ function WorldMapInner({
           );
         })}
       </defs>
-      <ZoomableGroup>
+      <ZoomableGroup
+        zoom={zoom}
+        center={center}
+        {...{
+          onMoveEnd: ({ coordinates, zoom: z }: { coordinates: [number, number]; zoom: number }) => {
+            setCenter(coordinates);
+            setZoom(z);
+          },
+        } as Record<string, unknown>}
+        minZoom={1}
+        maxZoom={5}
+      >
         {/* Invisible background rect so dragging works on ocean areas */}
         <rect x={-500} y={-300} width={1200} height={600} fill="transparent" />
         <Geographies geography={GEO_URL}>
@@ -240,6 +301,7 @@ function WorldMapInner({
         </Geographies>
       </ZoomableGroup>
     </ComposableMap>
+    </div>
   );
 }
 

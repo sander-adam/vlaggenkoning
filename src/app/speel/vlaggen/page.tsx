@@ -29,21 +29,13 @@ export default function SpeelPage() {
     }
   }, [game.status, game.startGame]);
 
-  // Auto-save score if player already has a saved name
+  // Reset score-saved state when a new game starts
   useEffect(() => {
-    if (game.status === "gameover" && !scoreSaved.current) {
-      const savedName = getPlayerName();
-      if (savedName) {
-        addScore(game.streak, game.totalAnswered, savedName);
-        scoreSaved.current = true;
-        setNameEntered(true);
-      }
-    }
     if (game.status === "playing") {
       scoreSaved.current = false;
       setNameEntered(false);
     }
-  }, [game.status, game.streak, game.totalAnswered, addScore]);
+  }, [game.status]);
 
   // Auto-advance on correct (1.2s), auto game-over on wrong (2.5s)
   useEffect(() => {
